@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1278</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Stopff, Emil</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>East 23rd Street Indoor Swimming Pool</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>between 1879 and 1950</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1879</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1950</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;East 23rd Street Indoor Pool 23rd St  S.S. crop crop Bureau of Public Health and Hygiene 105 East 22nd Street</mods:abstract>
+  <mods:abstract>Description:&#xA0;#382 Stamped E. Stopff East 23rd Street indoor swimming pool. In &#x201C;Social and Family Welfare&#x201D;; 70th Annual Report of AICP (1912-1913), facing page 97. Used on billboard listing addresses of FREE PUBLIC BATHS. Caption under picture of billboard; TELLING THE PEOPLE WHERE TO BATHE. A part of the Municipal Bath Campaign. Note: See Extra Print File for pictures of Rutgers Place, West 60 Street, and one not identified indoor swimming pools.</mods:abstract>
+  <mods:note>Item no.&#xA0;1278</mods:note>
+  <mods:note>Photograph no.&#xA0;382</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Annual Report 70 (New York: 1912-1913).</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>East 23rd Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Public health</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Public baths</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Boys</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;54</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1278</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139634</mods:identifier></mods:mods>

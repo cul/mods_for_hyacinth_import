@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1320</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Drake, W. H. (William Henry)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Washington Street</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1884</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1884</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="gmgpc">illustrations</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;p. 51</mods:abstract>
+  <mods:abstract>Description:&#xA0;(Negative on file) #19 Drawing by W.H. Drake In &#x201C;Forty-First Annual Report of the New York Association for Improving the Condition of the Poor, for the year 1884.&#x201D; Page 51 (From the Tenement House Inspector Report, pp. 35-60.) ----Washington Street. In the older houses where gable roofs exist the attic rooms were almost invariably tenanted. Sometimes, as at ----Washington Street, a large landing divides two small apartments, and oftener the entire space is utilized by cutting up into miniature partitioned rooms, occupied by from one to three persons paying an average of $4.00 per month per room. The Illustration above represents an attic somewhere roomier than the average, and for which $5.00 per month is paid. It was tenanted by an old man, &#x201C;superannuated,&#x201D; as he said. He was very sick and all alone&#x2026;. Life in a tenement house attic is as dismal as can be imagined. Since the clearing out of the cellar population, attics have been in great demand, affording the cheapest accommodation to be had. The bins, or rooms, seldom have to wait for a tenant. An attic of limited area at ---- Cherry Street is divided into five apartments; dark, blackened with the smoke of the one stove on which the tenants do their scant cooking in turns, and though unventilated in the summer, bitterly cold in winter, wretched at all times. In Bleecker Street is a row of houses whose attic floors are cut up to accommodate all manner of people, amongst whom it is prudent to look after one&#x2019;s personal safety.</mods:abstract>
+  <mods:note>Item no.&#xA0;1320</mods:note>
+  <mods:note>Photograph no.&#xA0;19</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Annual Report 41 (New York: 1884): 51.</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Washington Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lctgm">
+    <mods:topic>Interiors</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>House furnishings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Beds</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Attics</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;13</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;148</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1320</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139758</mods:identifier></mods:mods>

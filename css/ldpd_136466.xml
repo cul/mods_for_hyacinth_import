@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0219</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Pushcarts on Broad Street</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1905</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1905</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;32 Beaver St. (corner of Beaver and Broad)</mods:abstract>
+  <mods:abstract>Description:&#xA0;#320 Unknown Photographer Southeast corner of Beaver and Broad Streets. The push-carts selling "Hot Frankfurters 3 cents and 2 for 5 cents" are parked on Broad Street. This photograph may have been taken, but not used, in connection with the "Report of the Mayor's Push-Cart Commission," published in 1906. Francis Draz &amp; Co. were located at Beaver and Broad at that time. By 1910 they had moved to Hudson Street. The Push-Cart Commission was appointed by the Hon. George B. McClelland, Mayor of the City of New York, February 20, 1905, with Lawrence Veiller (Director of the COS Department for the Improvement of Social Conditions)as Chairman. In Appendix VII of the report, Testimony Taken at the Public Hearing, April 13, 1905, page 209, one of the men attending the Hearing, a lunch push-cart peddler at Beaver and Broad, complained that "we have been getting a lot of chasing lately." He said he'd go "to one place and the officer comes along and says, 'Get off of my post!' and we go across the street, and another man comes along and says, 'Get off of my post!' So one day when two of them had said this to my brother, he said, 'I have no air-vessel, I cannot go into the air.'" This man considered the lunch push-cart a "public necessity," due to the "trials and struggles of the young generation to get along on small salaries, and owing to the high cost of living at the present time." Note the sun umbrella on the left advertising Bloomingdales. In "Meyer Berger's New York" (New York, Random House, c1953-1960) at p. 158, he says, "It was young Samuel's [the founder's son, born June 1873] idea to give free red-and-white wedged sun umbrellas to dray drivers in New York. Within a year more than 5,000 were dispensed, all proclaiming that 'All Cars Transfer to Bloomingdales.'" Note also the gas street lamp on the corner of Beaver. Delmonico's at Beaver and William Streets, has two (electrified) gas lamps flanking the entrance to the restaurant. The 4 story buildings on Beaver Street are now (1970) part of the site of 55 Broad Street, a typical present day 31 story glass and steel office building. The ITT World Communications, Inc., building, 35 stories, erected 1929, now covers the entire Broad Street block from Beaver to S. William, with the address 67 Broad. From "As You Pass By," by Kenneth Holcomb Dunshee (New York Hastings House, c1952) page 27: "Back in the days of the Dutch West India Company, the gentle waters of a canal ran along what is now Broad Street, and its sides were sheathed with planks to keep the banks from caving in . . . After the English occupation of New York (1676), the canal was ordered filled in, from which resulted an unusually broad street."</mods:abstract>
+  <mods:note>Item no.&#xA0;0219</mods:note>
+  <mods:note>Photograph no.&#xA0;320</mods:note>
+  <mods:note>Photographer unknown. Related to image no. 0229 of this digital collection.</mods:note>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Francis Draz &amp; Co. (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Broad Street</mods:citySection>
+      <mods:citySection>Beaver Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Vending stands</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Street vendors</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Stores, Retail</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Storefronts</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Hot dog stands</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Handcarts</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Carriages and carts</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;9</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0219</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136466</mods:identifier></mods:mods>

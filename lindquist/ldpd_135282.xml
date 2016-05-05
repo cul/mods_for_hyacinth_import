@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_065_1760</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Two Men in Uniform in front of Bank Building, Camp Function </title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>October 15, 1917</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1917-10-15</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 3/8 x 5 3/8</extent>
+    <form authority="aat">postcards</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: "Camp Function" (WT) - Sign: *BANK* Checks Cashed &amp; Deposits Secured [illegible]. General Banking Business Transacted. This banking service and temporary bank building is erected by the Central National Bank of Junction City who will commence at once on this site the erection of a large modern bank building.</abstract>
+  <abstract>Verso annotation: Dear Mr. Lindquist: Just happened along when a picture of the bank was taken. The other fellow is a KU man and pal of mine. Getting rather chilly now. Hope you have a full house now and are going along fine. Regards to Mrs. L and the boys, Wm. [Ober[?]ing]. Elmer E. Lindquist, Roe Institute, Wichita Kans. Postmark: Junction City, KANS. OCT 15, 5:30 PM, 1917 [U.S. POSTAGE &#x2013; 1 CENT]</abstract>
+  <note type="item">Item no. 1760</note>
+  <subject authority="lcsh">
+    <geographic>Kansas</geographic>
+  </subject>
+  <subject>
+    <geographic>Kansas</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian men</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Banks and banking</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Men</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Indians &amp; World War I</title>
+    </titleInfo>
+    <note>Original folder no. 765</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 065</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_065_1760</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:135282</identifier></mods>

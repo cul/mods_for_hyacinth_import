@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0983</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Nurses' Educational "Keep Well" Series Album -- Bringing You Facts About Health</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1940-1948</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1940</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Description:&#xA0;C.S.S. Nurses help you keep well bringing you facts about health to aid you in plans for your care and the care of other members of your family.</mods:abstract>
+  <mods:note>Item no.&#xA0;0983</mods:note>
+  <mods:note>Photographer unknown. From Nurses' Educational "Keep Well" Series Album.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Toys</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Nurses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Mothers</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>House furnishings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Health education</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Families</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dolls</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;621</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0983</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:138754</mods:identifier></mods:mods>

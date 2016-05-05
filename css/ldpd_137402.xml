@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0531</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Crawford Shops Building</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1919</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1919</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Description:&#xA0;(Two 5x7 prints) #4236 Unknown Photographer From Bagdad on the Subway; A Periodical of Association [AICP] News, No. 8, November 1919, p. 6. Under heading "A.I.C.P. Happenings": "Since our last issue the Old Men's Toy Shop and the Women's Work Rooms have been combined, and are now under one roof in the building formerly operated by St. George's Church as a trade school. They are now known as the Crawford Shops. [Address: 505 East 16 St.] The building [built by J. P. Morgan for St. George's church] has been bought and presented to the Association for the purpose. Between eighty and a hundred old people, who otherwise would be unable to work effectively because of age or physical handicap, are enabled to earn at least a little toward their support and at the same time to retain the self-respect that goes with power to earn, however large or small. The Crawford Shops also have a retail store at 28 West 51st Street." 505 East 16 Street was leveled along with every other structure between l4th and 23rd streets from First Avenue to the F.D.R. Drive when the Metropolitan Insurance Company built Stuyvesant Town and Cooper Village in the 1940's. Image verso: The Crawford Shops 505 East 16th Street NYC Built by the late J. Pierpont Morgan for St. George's Church and now as a trade school. See: Excerpt from report to board of managers AICP April 1936, in archive's historical file, Crawford Shops.</mods:abstract>
+  <mods:note>Item no.&#xA0;0531</mods:note>
+  <mods:note>Photograph no.&#xA0;4236</mods:note>
+  <mods:note>Photographer unknown.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Bagdad on the Subway 8 (New York: 1919).</mods:note>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Women's Work Interiors (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Old Men's Toy Shop (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Crawford Work Shops (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>East 16th Street,&#xA0;505</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Workshops</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Older people--Employment</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Facades</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Architecture--Details</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;299</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;49</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0531</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137402</mods:identifier></mods:mods>

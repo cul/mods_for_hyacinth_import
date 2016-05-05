@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0212</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Drake, W. H. (William Henry)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Wooster Street. - 2.</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1884</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1884</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="gmgpc">illustrations</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;This drawing illustrates the basement tenements which once were among the worst sources of disease and contagion in New York. Negative on file and 1 duplicate.</mods:abstract>
+  <mods:abstract>Description:&#xA0;(Negatives on file for Wooster St. - 1 and 1 duplicate " " - 2 and 1 duplicate " " - 2 and 1 duplicate) Box 296 Folder 1 #14- 1 Drawing by W.H. Drake In "Forty-First Annual Report of the New York Association for Improving the Condition of the Poor, for the year 1884." Page 39 (From the Tenement House Inspectors Report, pp. 35-60.) ---- Wooster Street. A narrow, covered alley leads to a colony extending to the rear of No. ----. The houses fronting on the main yard appear as if they might fall at any moment; there are three or four underground rooms, damp, dark, noisome holes, whose occupation is contrary to ordinance, one of which, as will be seen by the illustration, is "To Let" [Wooster Street - 2.] Of its two rooms about 6 feet high and 10 feet square, the outer one is steeped in gloom and the inner one is wholly dark, while both are damp and repellant. The imagination sickens at the thought of one's having to exist in such a pen, where a wet earthy smell takes the place of air and the sunlight never enters, where rats run riot, and mould and mildew greet the touch. The rooms are to be had for $5.00 per month, to be paid promptly in advance on penalty of eviction. My last acquaintance here died of rheumatism. . . . [Wooster Street - 3] whose exterior may be seen in the shed-like extension at the lower left hand corner of the larger drawing, shows a living room with a bedroom at the further end; the latter measuring 8 feet by 5 feet 6 inches, perfectly dark and unaired, in which four persons sleep, while two children sleep on the floor in the outer room. Everything that should be perpendicular or horizontal, is all awry, the roof leaks, the window admits cold air freely. . . . Pointing to the cracked walls and leaky roof, the woman said "what can we do? where can we go? my husband earns $6.00 a week, we pay $5.00 a month for the shelter but we must put up with the cold and the darkness and the damp." ... All these houses are in a condition such as would shock the sensibilities of those who generously imagine that the homes of the poor are not so very uncomfortable after all. Wooster Street 1. In "Frontiers in Human Welfare; The Story of A Hundred Years of Service to the Community of New York, l848-1948." Community Service Society of New York, CI9U8, p. 36. Caption: Another drawing from the AICP Annual Report for 1884 suggests the primitive facilities for water supply available at that time to tenement house dwellers. Wooster Street 1. Reproduced in "The Battle With the Slums," by Jacob Riis (1902), p. 17. Picture title: An Old Wooster Street Court. AICP credited p. 16. Wooster Street 2. In "Frontiers in Human Welfare" (see above), p. 20. Caption: This drawing from the AICP Annual Report for l884 suggests the basement tenements which once were one of the worst sources of disease and contagion in New York.</mods:abstract>
+  <mods:note>Item no.&#xA0;0212</mods:note>
+  <mods:note>Photograph no.&#xA0;14-2</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Annual Report 41 (New York: 1884): 39.</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Wooster Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Tenement houses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Girls</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Cats</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;2</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0212</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136445</mods:identifier></mods:mods>

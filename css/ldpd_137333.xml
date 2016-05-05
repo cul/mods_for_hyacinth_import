@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0508</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Mulberry Health Center Album -- Dietician Teaching Mothers in the Home</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1918</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1918</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1919</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;From: Mulberry Health Center Album</mods:abstract>
+  <mods:abstract>Description:&#xA0;(Negative on file) #4297(b) From: Mulberry Health Center Album Unknown Photographer In "Last Year's Work and This Year's Challenge"; 76th Annual Report of AICP (1918-1919), page 12 top. Caption: DIETITIAN TEACHING MOTHERS IN THE HOME. The dietitian gives her lessons in the mother's own kitchen, over her own stove and with a few neighbors from the same stairway who have been invited in. (See #4300 - similar group, different kitchen.)</mods:abstract>
+  <mods:note>Item no.&#xA0;0508</mods:note>
+  <mods:note>Photograph no.&#xA0;4297b</mods:note>
+  <mods:note>Photographer unknown.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, 76th Annual Report (New York: 1918-1919): 12.</mods:note>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Mulberry Health Center (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Stoves</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lctgm">
+    <mods:topic>Interiors</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Nutritionists</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Kitchens</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>House furnishings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dietitians</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children--Nutrition</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;299</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;26</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0508</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137333</mods:identifier></mods:mods>

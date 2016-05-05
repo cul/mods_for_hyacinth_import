@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0534</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Mulberry Health Center Album -- Mulberry Community House</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>between 1879 and 1950</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1879</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1950</mods:dateCreated>
+  </mods:originInfo>
+  <mods:note type="date source">Date based on the date range (1879-1950) of
+                            the photographic portion of the Community Service Society
+                            Collection.</mods:note>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;From: Mulberry Health Center Album 256-258 Mott St.</mods:abstract>
+  <mods:abstract>Description:&#xA0;From: Mulberry Health Center Album 2 prints #4338 Unknown Photographer Similar photograph In Bagdad on the Subway; A Periodical of Association [AICP] News, No. 9, December 1919, p. 10. Illustrates article entitled, "The Community House," pages 10-11. (See Over) #4338 (Continued) "The Community House" article begins: "The Association intends very soon opening a headquarters for its community, social, and health work that is being carried on in the downtown East Side Italian District lying between Broadway and the Bowery, from Canal to East Houston Streets. The former school building of the Children's Aid Society, 256 Mott Street, is the building that has been selected and obtained. . . "The community health work of this district, which includes the prenatal care of mothers as well as infant and child hygiene and also the correcting of physical defects and deformities of children, which was started in this congested neighborhood over a year ago, is to be materially extended and centralized at the community house. The center will house the Association's medical and dental clinics, nutrition classes for mothers and children, and also will form a headquarters for the Association's nurses and visitors in that district. In addition it will have recreational groups for working boys and girls, school children, men and women; also group instruction in simple rules of health, diet, housekeeping, civics, English, and other instruction based upon special need. It is also planned to have a large assembly hall for community meetings, dances, and lectures." From the Thirty-Sixth Annual Report of the Children's Aid Society (1888), pages 6-1. "The . . . building, founded by Mr. J.J. Astor as a memorial to Mrs. Astor, at No. 256-258 Mott Street, is also near its completion. In erecting this beautiful monument to his wife, whose name will never be forgotten among the benefactors of the poor in this city, Mr. Astor had the great kindness to furnish the means both for the lots and the building, or about $63,000. Miss Stevens' school, mainly of Italian children, in Crosby Street, in which Mrs. Astor had so deep an interest, as well as in the Italian poor, will be transferred to the building during the present winter as soon as it is thoroughly completed. The architecture of the house, considering the difficulties of the position, does even more credit to Mr. Vaux's genius than the building in Forty-fourth Street. In the midst of a poor and crowded street, a building with air and light, and of beautiful proportions, has been erected, which will be a perpetual joy to the poor Italian children, and a means of education and charity for generations to come. A cooking school room is afforded, a convenient kitchen and teachers' dining-room, airy school-rooms, a nursery, kindergarten, and industrial rooms, with pleasant rooms for the principal and janitress at the top. It is an incredible satisfaction to all in the Society that a work like that of Miss Stevens, which has gone on for twenty-five in such wretched quarters, should at length have a fitting place and surroundings." #4338 (Continued) Calvert Vaux, the architect of 256-258 Mott Street, was born in London in 1824 and worked in an architect's firm there before coming to the United States in 1850. In 1857, Frederick Law Olmsted was appointed architect in chief of Central Park with Calvert Vaux associate. Olmsted and Vaux also designed Prospect Park, Morningside Park, and Riverside Park. Vaux was landscape architect for the Park Department 1881-1883 and 1888-1895. He died in 1895. Among the buildings designed by Vaux are Samuel Tilden's home on Gramercy Park, now the National Arts Club; the Jefferson Market Courthouse which, after a valiant battle by Greenwich Village residents to preserve the building, became the Jefferson Market Branch of the New York Public Library; and the Children's Aid Society building on the south side of Tompkins Square Park, very similar in design to the Mott Street building. (See Over) #4338 (Continued) The Mulberry Community Center was closed in 1938. Today (1969), 256 Mott Street is still a sturdy building but there is nothing spruce about it. The wrought iron railing around the areaway has been removed; the basement windows and the areaway have been filled in. Over the doorway is a large square sign: I. BECK &amp; SONS MANUFACTURERS &amp; DISTRIBUTORS METAL MOULDINGS, FLOOR &amp; WALL COVERINGS AND ACCESSORIES But: Purchased in 1972 by a coop "14th Ward Industrial Building" -- used as an apt house. One of the owners is Hershberger &amp; Kern, film makers. 10/17/75.</mods:abstract>
+  <mods:note>Item no.&#xA0;0534</mods:note>
+  <mods:note>Photograph no.&#xA0;4338</mods:note>
+  <mods:note>Photographer unknown. This building is listed today the in National Register of Historic Places as "Fourteenth Ward Industrial School (added 1983), also known as Astor Memorial School".</mods:note>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Vaux, Calvert, 1824-1895</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Mulberry Health Center (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Mott Street,&#xA0;256-258</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Italian Americans--Services for</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Gothic revival (Architecture)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Fourteenth Ward Industrial School (New York, N.Y. : Building)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Facades</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Architecture--Details</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;299</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;52</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0534</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137411</mods:identifier></mods:mods>

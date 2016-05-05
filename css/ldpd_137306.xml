@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0499</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Charity Organization Society of the City of New York</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Hawley, Hughson, 1850-1936</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Building for the United Charities of New York City, Corner Twenty-Second Street and Fourth Avenue</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1889</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1889</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="gmgpc">illustrations</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Description:&#xA0;#1 Drawing by Hughson Hawley From: King's Handbook of New York City. Planned, edited and published by Moses King, Boston, Mass. Copyright, 1892 and 1893. Page 419 . "The United Charities Building, at the corner of Fourth Avenue and 22d Street, was erected and presented Jointly to the Charity Organization Society, the Children's Aid Society, the Association for Improving the Condition of the Poor, and the New-York City Mission and Tract Society, by the munificence of John S. Kennedy, and with the expectation that many other charities of the city will be gathered under its roof, and that their efficiency and economy will be promoted thereby. It is a magnificent seven-story fireproof edifice, erected in 1891-93, at a cost exceeding $700,000. The lower stories are of granite, and those above are of stone and brick, leading up to a noble tiled roof. The architects were R.H. Robertson and Rowe &amp; Baker. Besides the offices of the four great unsectarian societies, the building contains a beautiful little hall, commodious bath-rooms for the Children's Aid Society, safe-deposit vaults for archives, a library of books about charities, the New-York Cooking School's restaurant, four studios, and many fine offices." Picture on p. 420. The house across the street in the drawing, was the Society for the Prevention of Cruelty to Animals, which was "Taken down in 1892, to make room for new Episcopal Church Missions House" (present structure). See Page 503 of above book. This drawing was used as the frontispiece in COS Annual Reports, July 1892 - June 1897. The July 1897 - June 1898 Annual Report has a new picture, with the roof raised by 3 stories. Picture reproduced in "Frontiers in Human Welfare - l848-1948," facing p. 41. To whom it may be of interest, 297 Fourth Avenue, was the building of the New York Society for the Prevention of Cruelty to Children. See picture , p. 425, King's Handbook.</mods:abstract>
+  <mods:note>Item no.&#xA0;0499</mods:note>
+  <mods:note>Photograph no.&#xA0;1</mods:note>
+  <mods:note>Image no. 0626 is a photograph of the same building.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>Charity Organization Society of the City of New York, Annual Reports 1892-1897.</mods:note>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>New York City Mission and Tract Society</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Children's Aid Society (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Charity Organization Society of the City of New York</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>East 22nd Street,&#xA0;105</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>United Charities Building (New York, N.Y.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Office buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Horses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Carriages and carts</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;35</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0499</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137306</mods:identifier></mods:mods>

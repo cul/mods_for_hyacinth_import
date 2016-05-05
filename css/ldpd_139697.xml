@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1299</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Press Illustrating Service (New York, N.Y.)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Old Men's Toy Shop Album--Painting Toys at Old Men's Toy Shop</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1916</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1916</mods:dateCreated>
+  </mods:originInfo>Date from description sheet.<mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on front:&#xA0;no negative </mods:abstract>
+  <mods:abstract>Annotation on back:&#xA0;From: Old Men's Toy Shop Album</mods:abstract>
+  <mods:abstract>Description:&#xA0;#1661 Stamped From: Old Men's Toy Shop Album Press Illustrating Service Used to illustrate article entitled, "The Old Men's Toy Shop," in Bagdad On the Subway; A Periodical of Association [AICP] News, October 1917, No. 1, page 12. Used as illustration for Old Men' s Toy Shop Ad on back cover of Bagdad On the Subway, December 1918, No. 6. Heading: THE MOST WONDERFUL TOYS IN ALL THE WORLD HOLIDAY SALE - 6ll Fifth Ave., Cor. 49th St. Permanent Headguarters: 105 East 22 St. Used as illustration for Crawford Shops Ad on back cover of Bagdad On the Subway, November 1919, No. 8. Heading: THE CRAWFORD SHOPS. Where Usefulness Brings Happiness. Same lllustration used for Ad on back cover of Bagdad On the Subway, December 1919, No. 9. Heading: MAKE XMAS DOUBLY HAPPY. Do Part of Your Shopping at Crawford Shops. Addresses in Ad: Shops: 505 East 16 St. (See #1-236) Store: 28 West 51 St. (See #261) (Although the address given above is 505 East 16 Street, this picture was taken in 1916, three years before the Women's Work Rooms and the Old Men's Toy Shop were combined and called the Crawford Shops. An Ad for the Old Men's Toy Shop in Bagdad on the Subway, October 1917, No. 1, opposite page 12, gives the address of the Shop as 256 Mott Street - the address of the building the AICP "obtained" in 1919 from the Children's Aid Society for the Mulberry Community House (see #338).</mods:abstract>
+  <mods:note>Item no.&#xA0;1299</mods:note>
+  <mods:note>Photograph no.&#xA0;1661</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Bagdad on the Subway 1 (New York: 1917); New York Association for Improving the Condition of the Poor, Bagdad on the Subway 6 (New York: 1918); New York Association for Improving the Condition of the Poor, Bagdad on the Subway 8 (New York: 1919); New York Association for Improving the Condition of the Poor, Bagdad On the Subway: 9 (New York : 1919)</mods:note>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Old Men's Toy Shop (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Mott Street,&#xA0;256</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Workshops</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Wooden toys</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Toys</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Toy making</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Older people--Employment</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Older men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men--Employment</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;297</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;56</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1299</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139697</mods:identifier></mods:mods>

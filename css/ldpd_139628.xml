@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1276</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Battery Floating Bath</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1897</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1897</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on front:&#xA0;STOPF</mods:abstract>
+  <mods:abstract>Annotation on back:&#xA0;Battery Floating Bath No. I Borough Manhattan Free Bath Battery</mods:abstract>
+  <mods:abstract>Description:&#xA0;(Negative on file) #300 Stamped E. Stopff Battery Floating Bath. The lettering above the entrance says: No. 1 Borough Manhattan Free Bath From &#x201C;Report on Public Baths and Public Comfort Stations,&#x201D; by The Mayor&#x2019;s Committee of New York City, c1897. (Chairman of the Committee was William Gaston Hamilton, the &#x201C;Vice-President of the New York Association for Improving the Conditions of the Poor, and the Chairman of the Department which built the People&#x2019;s Baths, 9 Centre Market Place.&#x201D;) Page 35: The first provision for free public baths was made in 1870 by the erection of two floating baths. There are now (1897) fifteen floating baths, berthed at convenient locations from the Battery to One Hundred and Thirty-fourth Street, on the North River, and from Market Slip, on the East River. The baths are usually open from the middle of June to October 1st. They are open daily from 5 A.M. to 9 P.M., except Sundays, when they are closed at noon. Mondays, Wednesdays and Fridays are set apart for women and children, the remainder of the week being for males. There is absolutely no charge for admission to the baths. All bathers excepting children are required to furnish themselves with bathing dresses, and, to avoid infection, no towels or other toilet articles can be hired at the baths. Two male attendants are in charge of each bath on the days set apart for males, and two female attendants on the other days. A male guard at each bath on women&#x2019;s days, a policeman to keep order, and a keeper at each bath at night are also employed. Each bath has an average of sixty-three dressing rooms, a reception toilet and retiring room, and is lighted by gas. The baths have a supply of ice water and are thoroughly swept, scoured and washed down nightly. At the end of each bathing season the baths are thoroughly repaired, painted and cleaned.</mods:abstract>
+  <mods:note>Item no.&#xA0;1276</mods:note>
+  <mods:note>Photograph no.&#xA0;300</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>The Mayor's Committee of New York City, "Report on Public Baths and Comfort Stations" (New York: circa 1897).</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Public baths</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Bodies of water</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;52</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1276</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139628</mods:identifier></mods:mods>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+<identifier type="local">ldpd.spanishchildren.101</identifier>
+<name type="personal"><namePart>Garcia, Fernando,</namePart><description>Age 11</description></name>
+<titleInfo type="translated"><title>Mountains on the Manzanares River.  Fernando Garcia of the Graphic Arts Colony at Godella in the San Mauro farmhouse.  Leaving Madrid in the "Pablo Iglesias" group which evacuated to Godella, Valencia.</title></titleInfo>
+<titleInfo><title>Monte del rio Manzanares.  Fernando Garciaa de la Colonia de Artes Graficos sita en Godella en la Masía de San Mauro.  Evacuando de Madrid en la Colonia de Pablo Iglesias sita en Godella (Valencia).  </title></titleInfo>
+<typeOfResource>still image</typeOfResource>
+<originInfo><dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred" point="start">1936</dateCreated>
+<dateCreated encoding="w3cdtf" qualifier="inferred" point="end">1939</dateCreated></originInfo>
+<relatedItem type="host" displayLabel="Collection"><titleInfo><title>Spanish children's drawings of the Civil War collection</title></titleInfo></relatedItem>
+<note>Drawing number 101</note>
+<note>Colony: Godella, Valencia</note>
+<subject><hierarchicalGeographic><country>Spain</country><province>Valencia</province></hierarchicalGeographic></subject>
+<genre authority="gmgpc">Children's art</genre>
+<relatedItem type="host" displayLabel="Project"><titleInfo><title>Children's Drawings of the Spanish Civil War (online exhibition)</title></titleInfo><location><url>http://www.columbia.edu/cu/lweb/eresources/exhibitions/children/</url></location></relatedItem>
+<location><physicalLocation authority="marcorg">NNC-A</physicalLocation>
+<physicalLocation>Avery Architectural &amp;amp; Fine Arts Library, Columbia University</physicalLocation></location>
+<accessCondition type="useAndReproduction">No known restrictions</accessCondition>
+<physicalDescription>
+<form authority="tgm">drawings</form>
+<form authority="marcform">electronic</form><internetMediaType>image/jpeg</internetMediaType><internetMediaType>image/tiff</internetMediaType>       <digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
+<recordInfo><recordCreationDate encoding="w3cdtf">2010-10-29</recordCreationDate><recordContentSource authority="marcorg">NNC</recordContentSource><languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging><recordOrigin>From PRD customer order database, edited to conform to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin></recordInfo>
+<identifier type="fedora_pid">ldpd:112104</identifier></mods>

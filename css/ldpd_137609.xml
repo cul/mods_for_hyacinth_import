@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0600</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Beals, A. Tennyson</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Mulberry Health Center Album -- Visiting Nurse with Mother and Three Children</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1923</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1923</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on front:&#xA0;1923</mods:abstract>
+  <mods:abstract>Annotation on back:&#xA0;From: Mulberry Health Center Album</mods:abstract>
+  <mods:abstract>Description:&#xA0;#5104 Photographer Probably From: Mulberry Health Center Album A. Tennyson Beals (See 5107) In "The Eightieth Annual Report of the A.I.C.P.," 1922-1923. Paging of the report starts at page 26; pictures are in preceding unpaged section entitled, "The Work of the A.I.C.P, in Illustration." #5104 used at top of title page of section. Statement below: 5,859 needy families, with 31,248 members, were cared for by the A.I.C.P. last year. A few of the constructive services rendered in their behalf are illustrated on the following pages---examples of how your Association is working to place those under its care in a position to help themselves.</mods:abstract>
+  <mods:note>Item no.&#xA0;0600</mods:note>
+  <mods:note>Photograph no.&#xA0;5104</mods:note>
+  <mods:note>Attributed to Alfred Tennyson Beals</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Annual Report 80 (New York: 1923).</mods:note>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Mulberry Health Center (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Social workers</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lctgm">
+    <mods:topic>Interiors</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>House furnishings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Babies</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>  
+  <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;618</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;22</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0600</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137609</mods:identifier></mods:mods>

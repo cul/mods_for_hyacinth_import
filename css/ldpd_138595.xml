@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0929</mods:identifier>
+  <mods:name authority="naf">
+    <namePart>Wide World Photos, Inc.</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Honored on Completion of 25 Years' Service with AICP</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>October 12, 1938</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1938</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;Wide World Photo 10/12/38  L-R  Messrs. Bliss, Burritt, Matthews &amp; Henry AICP</mods:abstract>
+  <mods:abstract>Description:&#xA0;WIDE WORLD PHOTO: PLEASE WATCH CREDIT HONORED ON COMPLETION OF 25 YEARS&#x2019; SERVICE WITH A.I.C.P. NEW YORK CITY- The scene as Baily B. Burritt, General Director of The New York Association for Improving the Condition of the Poor since 1914, and William H. Matthews, Directory of the Department of Family Welfare since 1913, both of whom have just completed 25 years of service with the Association for Improving the Condition of the Poor, were honored today at a meeting of the Board of Managers of the New York A.I.C.P., at 105 East 22nd Street. The two men have directed the spending of more than $55,000,000 for aid to New York&#x2019;s poor and their activities in the field of social welfare work have directly affected the lives of millions of persons in New York City. They are being presented with remembrance gifts. Left to rights: Cornelius N. Bliss, president of the Association from 1913-1934 acting for the board; Bailey B. Burritt, receiving a silver tray; William H. Matthew, receiving a silver cigar box and Barklie Henry, president of the Association since 1934, acting for the board. H-10/26/38 (L)</mods:abstract>
+  <mods:note>Item no.&#xA0;0929</mods:note>
+  <mods:note>Photograph no.&#xA0;MP-99</mods:note>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Matthews, William Henry, 1873-1946</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Henry, Barklie McKee, 1902-1966</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Burritt, Bailey B. (Bailey Barton), 1878-1953</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Bliss, Cornelius N., 1875-1949</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>East 22nd Street,&#xA0;105</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Trays</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Portraits, Group</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Cigar boxes</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;620</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;13</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0929</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:138595</mods:identifier></mods:mods>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_051_0909</identifier>
+  <name>
+    <namePart>Saint Michael's College (Santa Fe, N.M.)</namePart>
+  </name>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Old Bell, St. Joseph</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>Copyright 1908</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1908-00-00</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>5 1/2 x 3 1/2</extent>
+    <form authority="aat">postcards</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: D 3494  The Old Bell. St. Joseph</abstract>
+  <abstract>Verso annotation: The Bell was cast and hammered in Spain in 1356.  Brought to Santa Fe over 150 years ago. Placed in San Miguel church in 1848. Is of copper, silver, iron and some gold, and nearly four inches thick.  Is about the size of the Liberty Bell and weights 780 lbs.  Its silvery tones are made by a clapper hanging through the bell. There is no bell like this in America.  Old Spanish bells were never cast smooth. Everybody says it is a very old bell. It has all the marks of old Spanish bells.</abstract>
+  <note type="item">Item no. 0909</note>
+  <subject>
+    <name>
+      <namePart>Mission San Miguel (Santa Fe, N.M.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Santa Fe (N.M.)</geographic>
+  </subject>
+  <subject>
+    <geographic>New Mexico</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Church bells</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Bells</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: New Mexico Indians</title>
+    </titleInfo>
+    <note>Original folder no. 742</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Sub-group 3</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 051</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_051_0909</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:132950</identifier></mods>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_064_1729</identifier>
+  <name>
+    <namePart>Smith, Alex</namePart>
+  </name>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Newspaper Column: "Alex Smith &#x2013; Indian Lore." From The Aberdeen Daily World, October 16, 1946</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>October 16, 1946</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1946-10-16</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>6 7/8 x 3 5/8</extent>
+    <form authority="gmgpc">clippings</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <note type="item">Item no. 1729</note>
+  <subject>
+    <name>
+      <namePart>Sivonen, Nick</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Aberdeen (Wash.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Washington (State)</geographic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Washington (State) Indians</title>
+    </titleInfo>
+    <note>Original folder no. 762</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Pacific NorthWest/Puget Sound Area</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 064</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_064_1729</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:135194</identifier></mods>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1266</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Model of Block on Lower East Side from the Tenement House Exhibition of 1900</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1900</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1900</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="gmgpc">illustrations</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on front:&#xA0;MODEL OF BLOCK ON LOWER EAST SIDE From the Tenement House Exhibition of 1900</mods:abstract>
+  <mods:abstract>Annotation on back:&#xA0;AIR-SHAFT PERMITTED BY THE LAW PRIOR TO 1901 28 INCHES WIDE   NEW-LAW COURT; SUBSTITUTE FOR AIR SHAFT 12 1/2 FEET WIDE, 25 FEET LONG</mods:abstract>
+  <mods:abstract>Description:&#xA0;N.B. Only Museum of City of New York negative to be used #454 Jacob A. Riis Collection Museum of the City of New York In "The Charity Organization Society of the City of New York Eighteenth Annual Report, from July, 1899 to June, 1900 Inclusive," opposite page 40. Caption: See Xerox copy below picture. The picture is used to illustrate a section entitled "Report of Tenement House Committee," pp. 39-45. The text includes a description of the opening of the exhibition by Governor Theodore Roosevelt on February 10, 1900, "in the former Sherry building, at 404 Fifth Avenue . . . The opening meeting was so well attended that many people who desired to be present were unable to gain admission to the building . . . The exhibition was opened to the general public on the following Monday, February 12th*. . . and in that short period of two weeks was viewed by as many as 10,000 persons." In "Charities Review," March 1900. Illustrates article entitled, "The Tenement House Exhibition of 1899 [sic]," by Lawrence Veiller, pp. 19-27. Picture at beginning of article, no caption. In "The Tenement House Problem," edited by Robert W. DeForest and Lawrence Veiller, in 2 volumes (Macmillan, 0I9O3). Picture in Vol. 1, opposite page 112. Caption: An Existing Block of Tenements in 1900 on the Lower East Side of Nev York. In "The Charity Organization Society of the City of New York, l882-1907; History, Account of Present Activities," (25th Annual Report), opposite page 48. Caption: M0DEL OF BLOCK ON LOWER EAST SIDE From the Tenement House Exhibition of 1900 In "Annual Reports and Miscellaneous Publications of the Tenement House Committee, 1899-1916." Illustrates an excerpt from the COS l8th Annual Report, opposite page 6 (volume's own paging); also illustrates an excerpt from the COS 25th Annual Report, opposite page 34. * Closed Feb. 24. MODEL OF AN ACTUAL BLOCK OF TENEMENTS ON THE EAST SIDE (Made by Mr. F. T. Gilling.) The block bounded by Chrystie, Forsyth, Canal and Bayard streets. It includes 39 tenement houses, containing 605 different apartments for 2,781 persons. Of these, 2,315 are over 5 years of age, and 400 under 5 years. There are 1,588 rooms, and only 264 water closets in the block. There is not one bath in the entire block. Only 40 apartments are supplied with hot water. There are 441 dark rooms, having no ventilation to the outer air and no light or air except that derived from other rooms. There are 635 rooms getting their sole light and air from dark and narrow air-shafts. During the last 5 years there have been recorded 32 cases of tuberculosis from this block, and during the past year 13 cases of diphtheria. During the past 5 years 663 different applications for charitable relief have come from this block. The gross rentals derived from the block amount to $113,064 a year. This block is not one of the worst in the city, but merely typical.</mods:abstract>
+  <mods:note>Item no.&#xA0;1266</mods:note>
+  <mods:note>Photograph no.&#xA0;454</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>Charity Organization Society of the City of New York, Annual Report 18 (New York: 1899-1900); Lawrence Veiller, "The Tenement House Exhibition of 1899," Charities Review (New York: 1900): 19-27; Robert DeForest and Lawrence Veiller, eds, "The Tenement House Problem" (New York: Macmillan, circa 1903); Charity Organization Society of the City of New York, Annual Report 25 (New York: 1906-1907).</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Chrystie Street</mods:citySection>
+      <mods:citySection>Forsyth Street</mods:citySection>
+      <mods:citySection>Canal Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Tenement houses</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;42</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1266</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139598</mods:identifier></mods:mods>

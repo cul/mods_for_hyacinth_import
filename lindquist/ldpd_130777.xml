@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">burke_lindq_039_0268</mods:identifier>
+  <mods:name authority="NAF" type="personal">
+    <mods:namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</mods:namePart>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Rev. Floyd Burnett Standing at the Doorway of an Abandoned Mission near Fort Bidwell, California </mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1936</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1936-00-00</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:extent>5 3/4 x 3 3/8</mods:extent>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Recto annotation: .</mods:abstract>
+  <mods:abstract>Verso annotation: Abandoned Cong't Ind. Mission near Ft. Bidwell, Calif. 1936. Rev. Floyd Burnett at doorway.</mods:abstract>
+  <mods:note type="item">Item no. 0268</mods:note>
+  <mods:subject>
+    <mods:name>
+      <mods:namePart>Burnett, Floyd O.</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Fort Bidwell (Calif.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:geographic>California</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Congregational churches--Missions</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Church buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Indians of North America--Missions</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Abandoned buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Missionaries</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>G.E.E. Lindquist Native American Collection</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Folder title: California Indians</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Group title: Northern California</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>G.E.E. Lindquist Native American Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://lindquist.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NyNyCBL</mods:physicalLocation>
+    <mods:physicalLocation>Burke Library at Union Theological Seminary, Columbia University</mods:physicalLocation>
+    <mods:shelfLocator>Box no. 039</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_039_0268</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:130777</mods:identifier></mods:mods>

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0034</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Beals, Jessie Tarbox</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Women's Workrooms Album -- Women's Work Rooms </mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1916</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1916</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;From: Women's Workrooms Album</mods:abstract>
+  <mods:abstract>Description:&#xA0;NEGATIVE ON FILE. ORIGINAL PRINT ON ONE-YEAR : LOAN TO SAN FRANCISCO MUSEUM OF ART. SEE PATRICIA MACKAY, COMMUNICATIONS DEPARTMENT. MUSEUM CONTACT: JOHN HUMPHREY, CURATOR Box 297 Folder 5 #1633 Stamped Jessie Tarbox Beals From: Women's Work Rooms Album Used as illustration for Crawford Shops Ad on back cover of Bagdad On the Subway; A Periodical of Association [AICF] Hews, November 1919, No. 8. Heading: THE CRAWFORD SHOPS. Where Usefulness Brings Happiness. Same illustration used for Ad on back cover of Bagdad on the Subway, December 1919, No. 9. Heading: MAKE XMAS DOUBLY HAPPY. Do Part of Your Shopping at Crawford Shops. Addresses given in Ad: Shops: 505 East 16 St. (See #4236) Store: 28 West 51 St. (See #4261) (Although the address given above is 505 East 16 Street, this picture was taken in 1916 when the Women's Work Rooms were at 408 West 20 Street. #1650, #1758 and #1760 were also taken there.) From an undated summary in Archives History file, Crawford Shops, attached to a letter addressed to Miss Beatrice Bend, 563 Park Avenue, dated Nov. 15, 1916. "For several years the work of the Association's Sewing Bureau was limited to the giving out of sewing to be done by women in their own homes, this for the purpose of giving to such women an opportunity of adding a dollar or two each week to the family income ... "During the past year it was decided to change the method of work by having rooms to which the women could come to do the sewing under instruction. A start in this direction was made possible last November [1915] through the kindness of Mr. and Mrs. Wm. Emerson who gave us the use of two rooms in the Emerson Apartment House at 555 West 53d Street, near Eleventh Avenue [see #1831]. The classes, beginning with five women in attendance, had increased to 30 in July, making it necessary to transfer them to larger quarters at 408 West 20th Street. Here again they have steadily increased to an average attendance of between 40 and 50 women at both morning and afternoon classes, and the work is being carried on with difficulty owing to the very limited quarters. "...In addition to the fact that the women are badly crowded, other important work for which these rooms were originally intended [see #1796]is being held back by the presence of the sewing classes. Then, too, Miss Bruere, the superintendent of the work, has plans for the development of the work..."</mods:abstract>
+  <mods:note>Item no.&#xA0;0034</mods:note>
+  <mods:note>Photograph no.&#xA0;1633</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Bagdad on the Subway 8 (New York: 1919): 8.</mods:note>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Women's Work Rooms (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>West 20th Street,&#xA0;408</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Workshops</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women--Employment</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sewing machines</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sewing</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;12</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;84</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0034</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:135928</mods:identifier></mods:mods>

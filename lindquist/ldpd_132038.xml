@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_046_0583</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Howard Frazier, Oscar Gardner, and G.E.E. Lindquist at Yankton, South Dakota</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>June 7, 1947</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1947-06-07</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 1/2 x 2 1/2</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: Howard Frazier Little Eagle, S.D.; Oscar Gardner Hugo, Okla.; G.E.E. Lindquist Lawrence, Kans. Yankton, S.D. June 7, 1947</abstract>
+  <note type="item">Item no. 0583</note>
+  <note type="public">Probably taken at the Plains Regional Conference, held at Yankton in 1947. Lindquist: right. </note>
+  <subject>
+    <name>
+      <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Gardner, Oscar</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Frazier, Howard</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>National Fellowship of Indian Workers (U.S.). Plains Regional Conference (1947 : Yankton, S.D.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Yankton (S.D.)</geographic>
+  </subject>
+  <subject>
+    <geographic>South Dakota</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Men</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits, Group</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Missionaries</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Congresses and conventions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America--Congresses</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: National Fellowship of Indian Workers</title>
+    </titleInfo>
+    <note>Original folder no. 736</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Sub-group 3</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 046</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_046_0583</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:132038</identifier></mods>

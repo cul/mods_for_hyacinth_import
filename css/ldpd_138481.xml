@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0891</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Providence Street Scene or Alleyway</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>between 1901 and 1903</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1901</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1903</mods:dateCreated>
+  </mods:originInfo>Date based on publication.<mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on front:&#xA0;Providence  Two on one sheet - to face p. 150.  top  to face p. 150</mods:abstract>
+  <mods:abstract>Description:&#xA0;MP-51-57 Proof sheets for Vol. 1 "Tenement House Problems" De Forest &amp; Veiller MP-51 Slum Dwellings Philadelphia - Typical Houses of Working men MP-52 Snow street scene MP-53 Better grade dwellings MP-54 A Bremen Street Barracks Cincinnati - Typical Tenements MP-55 Cellar Dwellings Pittsburg - Housing Conditions MP-57 Providence Street Scene or alleyway</mods:abstract>
+  <mods:note>Item no.&#xA0;0891</mods:note>
+  <mods:note>Photograph no.&#xA0;MP-57</mods:note>
+  <mods:note>Photographer unknown.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>The Tenement House Problem. Edited by Robert W. De Forest and Lawrence Veiller (New York: Arno Press, 1903)</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Providence (R.I.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Wooden-frame buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Tenement houses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Laundry</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Clotheslines</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;619</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;69</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0891</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version        
+            1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:138481</mods:identifier></mods:mods>

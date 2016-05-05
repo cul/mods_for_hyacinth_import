@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0286</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Brugman, Gertrude A.</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Mulberry Health Center Album -- Dental Hygienists with Children</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1921</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1921</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1922</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;From: Mulberry Health Center Album AICP Dental Clinics at St. Patrick's Parochial School</mods:abstract>
+  <mods:abstract>Description:&#xA0;(Extra print, #3101b, same scene.) #3100 Gertrude A. Brugman? From: Mulberry Health Center Album (With notation: AICP Dental Clinic at St. Patrick's Parochial School.) In "A.I.C.P. 1922"; 79th Annual Report (1921-1922), p. 12 top. Caption: That the teeth hold the key to health to a great extent is becoming more and more recognized each year. These children are being taught by a competent dental staff the proper care of teeth and a diploma is given to reward those who comply with the rules for six months. In "The A.I.C.P. Eighty-Second Annual Report, 1924-1925; p. 12 bottom. Caption: Dental hygienists who clean, teach and prevent. Note: St. Patrick's Parochial School is on the south side of Prince Street between Mott and Mulberry. Also note the spittoons attached to the dental chairs.</mods:abstract>
+  <mods:note>Item no.&#xA0;0286</mods:note>
+  <mods:note>Photograph no.&#xA0;3100</mods:note>
+  <mods:note>Attributed to Gertrude A. Brugman. Same girls as depicted in images nos. 0289 and no. 0290 of this digital collection.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Annual Report 79 (New York: 1922): 12; New York Association for Improving the Condition of the Poor, Annual Report 82 (New York: 1925): 12.</mods:note>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>St. Patrick's Old Cathedral School (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Mulberry Health Center (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Prince Street,&#xA0;32</mods:citySection>
+      <mods:citySection/>
+      <mods:citySection/>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>School buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lctgm">
+    <mods:topic>Interiors</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dental public health</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dental instruments and apparatus</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dental hygienists</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dental clinics</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children--Health and hygiene</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;298</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;11</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0286</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136667</mods:identifier></mods:mods>

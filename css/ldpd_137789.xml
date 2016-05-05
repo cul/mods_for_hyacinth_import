@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0660</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Ward Manor Gate Lodge</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>between 1879 and 1950</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="inferred">1879</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1950</mods:dateCreated>
+  </mods:originInfo>
+  <mods:note type="date source">Date based on the date range (1879-1950) of
+                            the photographic portion of the Community Service Society
+                            Collection.</mods:note>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Description:&#xA0;#6400 ------ Unknown Photographer Concerning Ward Manor Ward manor, located in Dutchess County, New York, thirty miles north of Poughkeepsie, is a 900 acre estate with one mile frontage on the Hudson River. In January 1926 Mr. William B. Ward, through the Robert Boyd Ward Fund, conveyed this property to the New York Association for Improving the Condition of the Poor &#x201C;for the establishment and maintenance of a home for the aged, a home for convalescents, and summer outing camps&#x201D;. At the same time Mr. Ward gave to the Association certain monies for the early opening and maintenance of the proposed home for elderly people. Six months later the largest building then on the property, known as the Manor House, received the first of its old age guests. In 1928 an addition was made to this house whereby its capacity was increased from twenty-six to fifty-six. Three years later, through a gift and legacy left for such purpose, a second building, known as Robbins House, was erected nearby the Manor which increased the capacity for all-year-round care of old people to ninety. Next in importance to the Manor and Robbins House in way of buildings operated the year round is Ward Lea, a large farm house, used by young and middle aged persons for vacation and health restoration purposes. An extensive summer outing program is part of the Ward Manor work. Grey barns, Overhill, Homestead, The White House, are four camps where girls from 7 to 16 years of age take possession during the school vacation period. On the part of the property known as &#x201C;the island&#x201D; at the very edge of the Hudson River, a summer camp for boys was built in 1927. From 1916, the A.I.C.P. operated a small summer vacation place for elderly people, known as Sunset Lodge. In July 1929 this work was transferred to a spacious new building erected on a commanding hilltop on the Ward Manor property. In addition to the above, 18 summer bungalows have been built on the property. Completely furnished, these cottages are turned over to families for periods of two weeks or more for vacation purpose during the summer months. They are also used for week-end outings in spring and fall months by A.I.C.P. staff members and others. Farming is included in the Ward Manor program. Orchards and gardens supply a large part of the food used in the several households. Cattle and hogs are raised for the same purpose. That the 56 different buildings on this 900 acre property, with excellent equipment, are all now in use, gives some idea of the extent of Ward Manor activities. They are proof of growth. Through them may be seen and measured certain physical standards of work. The real value of these activities, however, must be determined by quality of spirit, by the contribution they make to the minds and hearts of those who from year to year come to know the hospitality and to have share in the life of the different households. That is not easily set down. The pages following have been prepared with the hope that they may in some measure prove a tangible record of human companionship as it finds expression in the life lived by a group of people, young, middle aged and old, at Ward Manor. Note: There is a separate Ward Manor Album in the Picture File Cabinet (bottom shelf in 1971). There are also some additional pictures in the &#x201C;AICP-COS-CSS History File&#x201D; in the Archives, in a folder headed &#x201C;Ward Manor- Historical Background.&#x201D;</mods:abstract>
+  <mods:note>Item no.&#xA0;0660</mods:note>
+  <mods:note>Photograph no.&#xA0;6400</mods:note>
+  <mods:note>Photographer unknown.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Red Hook (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Ward Manor (Red Hook, N.Y.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Stone buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Gatehouses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;300</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;37</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0660</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137789</mods:identifier></mods:mods>

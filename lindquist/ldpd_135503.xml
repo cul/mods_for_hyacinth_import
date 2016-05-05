@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">burke_lindq_OS_1835</mods:identifier>
+  <mods:name authority="NAF" type="personal">
+    <mods:namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</mods:namePart>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Seminole Indian Kitchen</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>between 1909 and 1953</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1909-00-00</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1953-00-00</mods:dateCreated>
+  </mods:originInfo>
+  <mods:note type="date">Date based on the earliest and latest dates of the Lindquist collection.</mods:note>
+  <mods:physicalDescription>
+    <mods:extent>3 1/2 x 5 1/2</mods:extent>
+    <mods:form authority="aat">postcards</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Recto annotation: Seminole Indian Kitchen Royal Palm Hammock Tamiani Trail</mods:abstract>
+  <mods:note type="item">Item no. 1835</mods:note>
+  <mods:note type="public">Image originally found in the Lindquist Papers, box 13, folder 11.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Tamiami Trail (Fla.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:geographic>Florida</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Indians of North America--Food</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Seminole Indians</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Indian women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Indian children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>G.E.E. Lindquist Native American Collection</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Folder title: Glade Cross Mission [Episcopal] Mission to Seminoles </mods:title>
+    </mods:titleInfo>
+    <mods:note>Original folder no. 273</mods:note>
+  </mods:relatedItem>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Group title: Glade Cross Mission to the Seminole Indians.</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>G.E.E. Lindquist Native American Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://lindquist.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NyNyCBL</mods:physicalLocation>
+    <mods:physicalLocation>Burke Library at Union Theological Seminary, Columbia University</mods:physicalLocation>
+    <mods:shelfLocator>Box no. OS</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_OS_1835</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:135503</mods:identifier></mods:mods>

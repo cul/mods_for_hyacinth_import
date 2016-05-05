@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_059_1392</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Oregon Forest Area, Klamath, Oregon</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>between 1912 and 1953</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1912-00-00</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1953-00-00</dateCreated>
+  </originInfo>
+  <note type="date">Date based on the earliest and latest dates of the Lindquist collection.</note>
+  <physicalDescription>
+    <extent>5 1/2 x 8 1/2</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: "This IS the forest primeval"</abstract>
+  <abstract>Verso annotation: Klamath Ore</abstract>
+  <note type="item">Item no. 1392</note>
+  <subject authority="lcsh">
+    <geographic>Klamath Indian Reservation (Or.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Oregon</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Forests and forestry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Landscapes</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Oregon Indians</title>
+    </titleInfo>
+    <note>Original folder no. 752</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Kalmath Indians - Logging Industry</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 059</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_059_1392</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:134267</identifier></mods>

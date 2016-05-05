@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_047_0691</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Carson Indian School, Domestic Science Building and Girls' Dormitory, Stewart, Nevada</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>May 3, 1920</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1920-05-03</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 5/8 x 6</extent>
+    <form authority="gmgpc">negatives</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <note type="item">Item no. 0691</note>
+  <note type="public">Positive image of a scanned negative from The Burke Archives.</note>
+  <subject>
+    <name>
+      <namePart>Carson Indian School (Carson City, Nev.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Carson City (Nev.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Stewart (Nev.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Nevada</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dormitories</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>School buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America--Education</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Boarding schools</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Nevada Indians</title>
+    </titleInfo>
+    <note>Original folder no. 739</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Carson Indian School</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 047</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_047_0691</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:132350</identifier></mods>

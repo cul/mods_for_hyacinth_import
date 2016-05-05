@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_OS_1902</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Fort Apache Office, Arizona</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>1923-1933</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1923-00-00</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1933-00-00</dateCreated>
+  </originInfo>
+  <note type="date">Original folder title.</note>
+  <physicalDescription>
+    <extent>3 1/2 x 5 1/2</extent>
+    <form authority="aat">postcards</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: Ft. Apache, Ariz. Office - Arizona Indians</abstract>
+  <note type="item">Item no. 1902</note>
+  <note type="public">Image originally from the Lindquist Papers. Box 21, folder 6. </note>
+  <subject authority="lcsh">
+    <geographic>Fort Apache (Ariz.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Arizona</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Office buildings</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Arizona Indians</title>
+    </titleInfo>
+    <note>Original folder no. 459</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. OS</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_OS_1902</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:135660</identifier></mods>

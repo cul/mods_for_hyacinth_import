@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_062_1580</identifier>
+  <name>
+    <namePart>Rouillard, Levi Moses</namePart>
+  </name>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Daughter and Granddaughter of Reverend Charles Frazier, Rapid City, South Dakota</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>October 26, 1949</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1949-10-26</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 3/8 x 5 3/4</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: 2., 1. </abstract>
+  <abstract>Verso annotation: October 26, 1949. This picture conveys living conditions and is a typical one in Rapid City, South Dakota. No. 1 is Mrs. Estelle Frazier Rencountre, daughter of the late Rev. Charles Frazier a Congregational Minister of the Santee Tribe of the Sioux Nation. No. 2 is Estelle&#x2019;s daughter Mrs. Bernice Rencountre Gonzalez. The little tots are their children. Twenty dollars a month is what they pay for rent for these shacks. They are not worth fifty cents a month. Their lawns are saw dust. Their remark: &#x201C;We live this way and it is hard, but our children will finish schooling some day and we can live differently.&#x201D; The two in the picture are Episcopalians. Levi M. Rouillard. </abstract>
+  <note type="item">Item no. 1580</note>
+  <subject>
+    <name>
+      <namePart>Rencountre, Estelle Frazier</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Gonzalez, Bernice Rencountre</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Rapid City (S.D.)</geographic>
+  </subject>
+  <subject>
+    <geographic>South Dakota</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian women</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Children</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits, Group</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Mobile homes</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Women</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian children</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: South Dakota Indians</title>
+    </titleInfo>
+    <note>Original folder no. 758</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Rapid City, S.D. </title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 062</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_062_1580</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:134783</identifier></mods>

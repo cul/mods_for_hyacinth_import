@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_058_1348</identifier>
+  <name>
+    <namePart>Roe, Mary W.</namePart>
+  </name>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Walter C. and Mary Roe before a Horse-Drawn Carriage and Gathered People</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>Jan. 2, 1909</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1909-01-02</dateCreated>
+  </originInfo>
+  <note type="date">Postage stamp</note>
+  <physicalDescription>
+    <extent>3 1/2 x 5 1/2</extent>
+    <form authority="aat">postcards</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: Mr. G. Elmer Lindquist Marquette Kans. Colony. Okla. New Years Day. Dear Mr. L. Thank you for you good letter + card of greeting. This is to wish you a happy year rich in service + usefulness, + therefore rich in joy. May God bless you through all its days. Mary W. Roe.</abstract>
+  <note type="item">Item no. 1348</note>
+  <subject>
+    <name>
+      <namePart>Roe, Mary W.</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Roe, Walter C., 1860-1913</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Colony (Okla.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Oklahoma</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Women</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Men</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Missionaries</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Carriages and carts</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Missionaries' spouses</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Oklahoma Indians</title>
+    </titleInfo>
+    <note>Original folder no. 751</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 058</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_058_1348</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:134143</identifier></mods>

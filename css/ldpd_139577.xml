@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1259</mods:identifier>
+  <mods:name authority="naf">
+    <namePart>Wurts Bros. (New York, N.Y.)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Mulberry Bend Park</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1900</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1900</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on front:&#xA0;To face p. 9  Mulberry Bend Park The Site of a Notorious Slum.</mods:abstract>
+  <mods:abstract>Description:&#xA0;#312 &#x201C;Wurtz (?) Bros. Photo&#x201D; Looking north from the south side of the Park (Park Street). The official name of the park is Columbus Park. In Vol. II of &#x201C;The Tenement House Problem; Including the Report of the New York State Tenement House Commission of 1900,&#x201D; by Various Writers, edited by Robert W. DeForest and Lawrence Veiller. N.Y., Macmillan c1903. Facing page 9. The Park does not look as spacious today (1971) as when the picture was taken. On the left (west, Baxter Street), the Park is rimmed by the United States Court House, the New York Supreme Court Building, the State Office Building and the Criminal Court Building. Much of the greenery of the Park has disappeared into asphalted playgrounds for children. The majority of the children playing there today are Chinese. At the time the park was opened Mulberry Bend was primary an Italian neighborhood. Jacob Riis, through his newspaper reporting, articles and books, to say nothing of his photographs, is the person generally credited with the transforming of Mulberry Bend from a &#x201C;notorious slum&#x201D; to a park. The Small Parks Act was passed 1887 and in 1888 plans were filed for the demolition of Mulberry Bend. In Louise Ware&#x2019;s &#x201C;Jacob A. Riis; Police Reporter, Reformer, Useful Citizen&#x201D; (N.Y., D. Appleton-Century Co., c1938), she relates at p. 158 that the &#x201C;great day&#x201D; Jacob Riis had been waiting for had come. &#x201C;On June 15, 1897, there was to be a formal opening of Mulberry Bend Park, with band and speeches. It was the subject probably nearest his heart with the possible exception of the police-station lodgings&#x2026; Riis had thought that maybe in some morning&#x2019;s mail there would come a little white card inviting him to be present to say a few words. Nevertheless, the hour for the ceremonies approached and no message arrived. &#x201C;On that important night of June 15th, he and Lincoln Steffens stepped briskly down Mulberry Street toward the Bend&#x2026; Five thousand persons, mostly boys and girls, jabbered in many tongues as they waited for the magic moment&#x2026;Suddenly the band was playing, and the speakers were mounting the steps of the pavilion. Mayor Strong and the congressmen from the district delivered their addresses. Other authorities spoke. At last it was Colonel Waring&#x2019;s turn. He delivered a two-minute speech and at the end directed three cheers for Jacob Riis to whom, he said chief credit was due &#x2026;. &#x201C;As Jacob Riis moved slowly away from the scene, he could hear the cheers still ringing. Any little feeling of pique which he might earlier have had at not being invited had flitted away with the first sight of that joyous crowd. At that moment &#x2013; so he later said &#x2013; he realized that victory in the accomplishment of a good work and not personal recognition is the really important thing in life.&#x201D;</mods:abstract>
+  <mods:note>Item no.&#xA0;1259</mods:note>
+  <mods:note>Photograph no.&#xA0;312</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>DeForest, Robert and Lawrence Veiller, eds. "The Tenement House Problem; Including the Report of the New York State Tenement House Commission of 1900." New York: Macmillan, circa 1903.</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Five Points (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Columbus Park (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Baxter Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Parks</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Benches</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;35</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1259</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139577</mods:identifier></mods:mods>

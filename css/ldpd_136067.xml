@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0085</mods:identifier>
+  <mods:name authority="naf">
+    <namePart>Beals, Jessie Tarbox</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Women's Workrooms Album -- Women's Work Shop</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1917</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1917</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;From: Women's Workrooms Album</mods:abstract>
+  <mods:abstract>Description:&#xA0;Box 297 Folder 8 #1846 Photographer probably Jessie Tarbox Beals From letter in Archives History File, Crawford Shops, addressed to Bailey B. Burritt, dated March 5, 1917, signed by P.C. Wilson, Asst. Secretary, Office of the Mayor, City of New York. "I am sending you herewith my revision of your memorandum on Women's Work Shops,which was dated February 2nd and received on February 15th ..." Excerpted from the memorandum: "The Women's Work Shops, of which Miss Marie Bruere is Superintendent ..." "At present there are some 90 women employed ... The women are paid at the minimum rate of 15&#x20B5; an hour and are allowed to work any or all of the day - that is, - it is possible for women, who must prepare children for school, to come late and go home as early as they wish. "In addition to giving a fair wage from the start, this work has an educational value. These women may fit themselves, through experience in the shops, to secure work on the outside and thus become self-supporting ..." "The work was started in a portion of a house on West 20th Street, but on account of its growth new quarters were taken about a month ago in East 50th Street(409 East 50 St.) where the entire house will be devoted to this purpose... necessary to secure certain new equipment, a list of which is enclosed herewith. Efforts are now being made to secure this new equipment through a few special contributions ..." (See #1633 for additional material on Women's Work Rooms.) Photo from: Women's Work Rooms Album</mods:abstract>
+  <mods:note>Item no.&#xA0;0085</mods:note>
+  <mods:note>Photograph no.&#xA0;1846</mods:note>
+  <mods:note>Attributed to Jessie Tarbox Beals.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>East 50th Street,&#xA0;409</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Workshops</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women--Employment</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Sewing</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lctgm">
+    <mods:topic>Interiors</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Older women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Older people--Employment</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Chandeliers</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;13</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;2</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0085</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136067</mods:identifier></mods:mods>

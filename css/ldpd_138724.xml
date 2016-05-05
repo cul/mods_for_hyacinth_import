@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0973</mods:identifier>
+  <mods:name authority="naf">
+    <namePart>Drake, W. H. (William Henry)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Attic Apartment on Spring Street</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1884</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1884</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="gmgpc">illustrations</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on front:&#xA0;Spring Street,   dark, blackened with the smoke of the one stove on which the tenants do their scant cooking in turns, and though unventilated in summer, bitterly cold in winter, wretched at all times.  In Bleecker Street is a row of houses whose attic floors are cult up to accomodate all manner of people, amongst whom it is prudent to look after one's personal safety. </mods:abstract>
+  <mods:abstract>Annotation on back:&#xA0;#42. Tenement Houses Bleak interior of attic on Spring St., 1884 Unused 1944</mods:abstract>
+  <mods:abstract>Description:&#xA0;Box 301 Folder 3 #MA-270 Drawing by W.H. Drake See: Box 296 Folder 1 Photo 18 2 copies in this folder Hand written on the back of this copy: #42 Tenement Houses Bleak interior of attic on Spring Street, 1884. Unused 1944 Typed and attached to the copy: WHEN SOCIAL WELFARE WAS YOUNG. An attic apartment in Spring Street in 1884. Rent, $3.50 a month. No water supply except the common hydrant. A widow and two children slept on &#x201C;a ragged pile of stuff on the floor.&#x201D; This picture shows conditions that faced social welfare agencies now affiliated with the Greater New York Fund when they began their work. The Fund is now engaged in its 1944 Campaign to obtain from business its vital share of $22,250,00 required by 403 local hospitals, health and welfare agencies.</mods:abstract>
+  <mods:note>Item no.&#xA0;0973</mods:note>
+  <mods:note>Photograph no.&#xA0;MA-270</mods:note>
+  <mods:note>Same scene depicted in image no. 1319 of this digital collection.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Spring Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Stoves</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lctgm">
+    <mods:topic>Interiors</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Laundry</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>House furnishings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Beds</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Attics</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title> 
+   </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;620</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;56</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0973</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:138724</mods:identifier></mods:mods>

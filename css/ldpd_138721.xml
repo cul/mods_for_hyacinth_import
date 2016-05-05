@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0972</mods:identifier>
+  <mods:name authority="naf">
+    <namePart>Drake, W. H. (William Henry)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Wooster Street Houses, 1884</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1884</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1884</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="gmgpc">illustrations</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on front:&#xA0;Wooster Street - 1</mods:abstract>
+  <mods:abstract>Annotation on back:&#xA0;This drawing from the Community Service Society's Annual Report for 1884 suggest the primitive facilities for water supply available at that time to tenement house dwellers.</mods:abstract>
+  <mods:abstract>Description:&#xA0;Box 301 Folder 3 #MA-269 Drawing by W.H. Drake 3 Copies in this folder See: Box 296 Folder 1 Photo 13 Handwritten on back of one copy: #39 Tenement Houses Slum Scene, Wooster Street, 1884 Unused 1944 Attached to one of the copies WHEN SOCIAL WELFARE WORK WAS YOUNG. Wooster Street houses, 1884. Here a basement was to let; two rooms, each 6 feet high and ten feet square; damp, with &#x201C;earthy smell&#x201D;; rent, $5 a month. One of the conditions that welfare agencies now affiliated with the Greater New York Fund helped to correct. The Fund is now engaged in its 1944 Campaign to obtain from business its vital share of $22,250,000 required by 403 local hospitals, health and welfare agencies. Typed and attached to one of the copies: This drawing from the Community Service Society&#x2019;s Annual Report for 1884 suggests the primitive facilities for water supply available at the time to tenement house dwellers. (Negative on file for Wooster St.- 1 and 1 duplicate &#x201C; &#x201C;-2 and 1 duplicate &#x201C; &#x201C;-3 and 1 duplicate) #14 Drawing by W.H. Drake In &#x201C;Forty-First Annual Report of the New York Association for Improving the Condition of the Poor, for the year 1884.&#x201D; Page 39 (From the Tenement House Inspectors Report, pp. 35-60.) Wooster Street. A narrow, covered alley leads to a colony extending to the rear of No.____. The houses fronting on the main yard appear as if they might fall at any moment; there are three or four underground rooms, damp, dark, noisome holes, whose occupation is contrary to ordinance, one of which, as will be seen by the illustration, is &#x201C;To Let.&#x201D; [Wooster Street -2.] Of its two rooms about 6 feet high and 10 feet square, the outer one is steeped in gloom and the inner one is wholly dark, while both are damp and repellant. The imagination sickens at the thought of one&#x2019;s having to exist in such a pen, where a wet earthy smell takes the place of air and the sunlight never enters, where rats run riot, and mould and mildew greet the touch. The rooms are to be had for $5.00 per month, to be paid promptly in advance on penalty of eviction. My last acquaintance here died of rheumatism&#x2026; [Wooster Street &#x2013; 3] whose exterior may be seen in the shed-like extension at the lower left hand corner of the larger drawing, shows a living room with a bedroom at the further end; the latter measuring 8 feet by 5 feet 6 inches, perfectly dark and unaired, in which four persons sleep, while two children sleep on the floor in the outer room. Everything that should be perpendicular or horizontal, is all awry, the roof leaks, the window admits cold air freely&#x2026;Pointing to the cracked walls and leaky roof, the woman said &#x201C;what can we do? Where can we go? My husband earns $6.00 a week, we pay $5.00 a month for shelter but we must put up with the cold and darkness and the damp.&#x201D;&#x2026; All these houses are in a condition such as would shock the sensibilities of those who generously imagine that the homes of the poor are not so very uncomfortable after all. Wooster Street 1. In &#x201C;Frontiers in Human Welfare; The Story of a Hundred Years of Service to the Community of New York, 1848-1948.&#x201D; Community Service Society of New York, c1948, p. 36. Caption: Another drawing from the AICP Annual Report for 1884 suggests the primitive facilities for water supply available at the time to tenement house dwellers. Wooster Street 1. Reproduced in &#x201C;The Battle With the Slums,&#x201D; by Jacob Riis (1902), p. 17. Picture title: An Old Wooster Street Court. AICP credited p. 16. Wooster Street 2. In &#x201C;Frontiers in Human Welfare&#x201D; (see above), p. 20. Caption: This drawing from the AICP Annual Report for 1884 suggests the basement tenements which once were one of the worst sources of diseases and contagion in New York.</mods:abstract>
+  <mods:note>Item no.&#xA0;0972</mods:note>
+  <mods:note>Photograph no.&#xA0;MA-269</mods:note>
+  <mods:note>Despite the CSS description's statement that this and similar drawings came from the Community Service Society's Annual Report for 1884, they were actually used in the AICP's Annual Report of 1884 (the Community Service Society did not yet exist).</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Frontiers in Human Welfare: The Story of a Hundred Years of Service to the Community of New York, 1848-1948 (New York: 1948). Jacob Riis, The Battle With the Slums (New York : Macmillan Co., 1902). New York Association for Improving the Condition of the Poor, Eighteen Eighty Four Annual Report (New York: 1884).</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Wooster Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Working class--Dwellings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Stairs</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Cats</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Barrels</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;620</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;55</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0972</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>     
+ <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:138721</mods:identifier></mods:mods>

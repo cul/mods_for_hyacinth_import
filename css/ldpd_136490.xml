@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0227</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Fruit Stand and Frame Houses on Market Street</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>before 1930s</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1900</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1930</mods:dateCreated>
+  </mods:originInfo>Date from description sheet.<mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Description:&#xA0;#330 Unknown Photographer Negative on File Looking east on Market Street from Henry Street. On a clear day, a span of the Brooklyn Bridge (opened to traffic May 24, 1883) can be seen at the foot of Market Street. The houses on the left are still standing (197O). The squarish, 4 story building with the three side windows is 42 Market, at the northeast corner of Madison and Market Streets. The first three buildings on the right (note the lion head on each side of the doorway) have been torn down and the site is a fenced in vacant lot. According to a long-time resident of Market Street, these buildings were torn down in the 1930's by the Fred F. French Company. At that time the French Company planned to build Knickerbocker Village there but decided instead to build it between Cherry and Monroe Streets, Catherine to Market. (See #5089 thru #5093) In "A Tour Around New York," by John Flavel Mines (pseudonym Felix Oldboy; published by Harper, c1892), he relates at p. 267: "There are old frame-houses in Orchard and Market streets which recall the time when that neighborhood was a Quaker settlement, full of gardens and orchards, with comfortable homes set in with trees and shrubbery. Old people still live who remember it as the garden spot of the city . . . Market Street, in the days of its roistering youth, was known as George Street, and had an exceedingly evil repute. A perpetual sound of revelry pervaded it. . . The place was an eyesore to the Quakers, who, finding that the authorities would do nothing to mend matters, adopted their own measures of reform . . . They bought up the entire property, rebuilt some of the houses . . . changed the name of the street to Market, and then settled down to make their homes there. It was a wonderful transformation scene, and a very suggestive one to the reformer of a later day." There are no frame houses on Market Street today, but there are some attractive brick houses. One 51 Market, a late Federal House, is particularly handsome.</mods:abstract>
+  <mods:note>Item no.&#xA0;0227</mods:note>
+  <mods:note>Photograph no.&#xA0;330</mods:note>
+  <mods:note>Photographer unknown.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Market Street</mods:citySection>
+      <mods:citySection>Henry Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Vending stands</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+  </mods:subject>  
+<mods:subject authority="lcsh">
+    <mods:topic>Sidewalks</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Fruit</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Carriages and carts</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;17</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0227</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136490</mods:identifier></mods:mods>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_065_1821</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Group of Seminole Indians with a Nun, Everglades, Florida</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>between 1912 and 1953</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1912-00-00</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1953-00-00</dateCreated>
+  </originInfo>
+  <note type="date">Date based on the earliest and latest dates of the Lindquist collection.</note>
+  <physicalDescription>
+    <extent>3 1/2 x 5 1/2</extent>
+    <form authority="aat">postcards</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: Glade Cross Mission to the Seminole Indians Everglades, Florida</abstract>
+  <note type="item">Item no. 1821</note>
+  <note type="public">The nun depicted in this photograph is most likely Harriet M. Bedell. See also images #230-235 in this collection </note>
+  <subject>
+    <name>
+      <namePart>Bedell, Harriet M., b. 1875</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Glade Cross Mission</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Everglades (Fla.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Florida</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Nuns</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Seminole Indians</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits, Group</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Seminole Indians--Missions</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Misc./Unidentified Photographs</title>
+    </titleInfo>
+    <note>Original folder no. 768</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Glade Cross Mission to the Seminole Indians. </title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 065</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_065_1821</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:135462</identifier></mods>

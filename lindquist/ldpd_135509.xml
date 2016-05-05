@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">burke_lindq_OS_1837</mods:identifier>
+  <mods:name authority="NAF" type="personal">
+    <mods:namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</mods:namePart>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>All Attendees of the Conference, Including Their Children, Farmington, New Mexico</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>June 9-13, 1941</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1941-06-09</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1941-06-13</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:extent>8 1/4 x 10</mods:extent>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Verso annotation: National Fellowship of Indian Workers Conferenece at Farmington, N. Mex. June 9-13, 1941</mods:abstract>
+  <mods:note type="item">Item no. 1837</mods:note>
+  <mods:note type="public">Image originally found in the Lindquist Papers, box 9, folder 20.</mods:note>
+  <mods:subject>
+    <mods:name>
+      <mods:namePart>National Fellowship of Indian Workers (U.S.). Conference (1941 : Farmington, N.M.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Farmington (N.M.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:geographic>New Mexico</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Indians of North America--Congresses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Portraits, Group</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Congresses and conventions</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Missionaries</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>G.E.E. Lindquist Native American Collection</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Folder title: Indian Workers Conference, Farmington, NM, 1941</mods:title>
+    </mods:titleInfo>
+    <mods:note>Original folder no. 165</mods:note>
+  </mods:relatedItem>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Group title: National Fellowship of Indian Workers</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>G.E.E. Lindquist Native American Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://lindquist.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NyNyCBL</mods:physicalLocation>
+    <mods:physicalLocation>Burke Library at Union Theological Seminary, Columbia University</mods:physicalLocation>
+    <mods:shelfLocator>Box no. OS</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_OS_1837</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:135509</mods:identifier></mods:mods>

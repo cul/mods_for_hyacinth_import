@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_OS_1848</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Dorothy Jones, a Student at Chemawa School</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>1938</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1938-00-00</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 x 2 </extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: Dorothy Jones Alieute and Santiam tribe, Chemawa N. Mex, 1938 (Klaste Print, Salem Orie June 1, 1939)</abstract>
+  <note type="item">Item no. 1848</note>
+  <note type="public">Chemawa Indian School was located outside Salem, Oregon.  Image is originally from the Lindquist Papers, box 28, folder 6.</note>
+  <subject>
+    <name>
+      <namePart>Chemawa Indian School</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Jones, Dorothy</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Salem (Or.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Oregon</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian girls</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian students</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Kalapuya Indians</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America--Education</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Boarding schools</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Girls</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Chemawa Indian School, Chemawa, Oregon </title>
+    </titleInfo>
+    <note>Original folder no. 610</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. OS</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_OS_1848</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:135542</identifier></mods>

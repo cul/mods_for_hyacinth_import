@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0966</mods:identifier>
+  <mods:name authority="naf">
+    <namePart>Drake, W. H. (William Henry)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Jersey Street</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1884</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1884</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="gmgpc">illustrations</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on front:&#xA0;Jersey Street</mods:abstract>
+  <mods:abstract>Description:&#xA0;(Negative on file and 1 duplicate) #10 Drawing by W.H. Drake In &#x201C;Forty-First Annual Report of the New York Association for Improving the Condition of the Poor, for the year 1884.&#x201D; Page 43 (From the Tenement House Inspectors Report, pp. 35-60.) In Jersey Street exist two court yards, one of which we illustrate. Six three story houses are in each. These houses are old and long ago worn out. They are packed with tenants, rotten with age and decay, and so constructed as to have made them very undesirable for dwelling purposes in their earliest infancy&#x2026; Here it is a rarity to see a wholly glazed sash, but common to find no sash at all, and there may be a room having all its plaster on but I have not seen it&#x2026; In each yard live twenty-four families (nominally only, because lodgers here as elsewhere are always welcome) paying rents from $6.00 to $9.00 monthly for two rooms, the inner one being subdivided by a partition consisting perhaps of a simple curtain, and measuring when so arranged about 5 x 6 feet each. There is no light or ventilation to these recesses, and like the outer and larger room, some 12 feet square, are blackened from smoke, denuded of plaster, and approached by rickety stairs. The roof has no available aperture for ventilation, but that is offset by the absence of sashes in the landing windows; a cheap but effective way of supplying plenty of cold air in winder. The beds are laid on boards stretched from one trestle to another and monopolize all the space that can be spared by those who have to sleep on the floor. Reproduced in &#x201C;The Battle with the Slums,&#x201D; by Jacob Riis (1902), p. 32 Picture title: Jersey Street Rookeries. AICP credited p. 16. In &#x201C;Frontiers in Human Welfare; The Story of a Hundred Years of Service to the Community of New York, 1848-1948.&#x201D; Community Service Society of New York, c1948, p. 45. Caption: New York Tenement house conditions in the 1880&#x2019;s as shown in the AICP Annual Report of 1884. Today (1969), Jersey Street is hemmed in by the blank side walls of unkempt business buildings. Its two block length is strewn with debris &#x2013; broken boards, broken glass, discarded wooden crates and cardboard cartons, paper, dirt.</mods:abstract>
+  <mods:note>Item no.&#xA0;0966</mods:note>
+  <mods:note>Photograph no.&#xA0;MA-262</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Frontiers in Human Welfare: The Story of a Hundred Years of Service to the Community of New York, 1848-1948 (New York: 1948). Jacob Riis, The Battle With the Slums (New York : Macmillan Co., 1902). New York Association for Improving the Condition of the Poor, Eighteen Eighty Four Annual Report (New York: 1884).</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Jersey Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Tenement houses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Play</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Laundry</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dogs</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Courtyards</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Clotheslines</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;620</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;50</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0966</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:138706</mods:identifier></mods:mods>

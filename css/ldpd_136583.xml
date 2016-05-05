@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0258</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Briar Brae Families' Christmas Party</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1915</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1915</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Description:&#xA0;#1796 Unknown Photographer The AICP "Year Book 1915" (72nd Annual Report; 1914-1915), in a section entitled "Alcohol and Drugs," pp. 32-34, states at p. 33 that Briar Brae Lodge (408 West 20 Street) was opened "a little less than a year ago," and goes on to say at p. 34, "We have linked up the Brair Brae Lodge with the work that is being done at the city's Farm for Inebriates in Orange County. It is to Briar Brae that the men come when they are discharged from the farm, knowing that they will find there men who will stand by them while they seek to get back to former or new positions. . . We should like to make this part of our work bigger. Doctors who should know have told us that it is big in possibilities; that without it much of the work being done in the alcoholic and drug treatment wards will be for naught . . ." It would seem from the above that what was anticipated was a half-way house for alcoholics and drug addicts discharged from institutions. The AICP annual reports for the next two years, however, only refer to Briar Brae in connection with alcoholics; no mention is made of drug addicts. This is true, too, in an article about Briar Brae by Freeman Tilden in Bagdad on the Subway, No. 2, November 1917, pp. 2-4. Briar Brae disappears from the annual reports thereafter, except for a budget item of $1,751.39 in the 75th Annual Report (1917-18) at p. 45; no explanation is given as to why it was discontinued. In 1916 the AICP Women's Work Rooms had space in 408 West 20 Street, but moved to 409 East 50 Street early in 1917 (see #1846). 408 is one of a row of 7 houses (still standing 1970) on the South side of 20th street between 9th and 10th avenues. These charming houses have the additional advantage of looking out on the serene elegance of the grounds of the General Theological Seminary in the heart of Old Chelsea.</mods:abstract>
+  <mods:note>Item no.&#xA0;0258</mods:note>
+  <mods:note>Photograph no.&#xA0;1796</mods:note>
+  <mods:note>Photographer unknown.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>West 20th Street,&#xA0;408</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Rehabilitation centers</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Portraits, Group</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Parties</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Families</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Christmas</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;297</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;23</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0258</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136583</mods:identifier></mods:mods>

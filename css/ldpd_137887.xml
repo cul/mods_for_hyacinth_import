@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0693</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Association for Improving the Condition of the Poor Nutritionist Teaching Mothers</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1937</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1937</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Description:&#xA0;#7017 Unknown Photographer In a 33 page, 11 x 14 pamphlet entitled, "ON FOUR FRONTS - AICP Fights Poverty by (1) Restoring Families to Self-Support, (2) Building Health,(3) Giving the Kids a Break, (4) Caring for the Aged." At bottom of title page: 1843-1937. (The 1937 Is the only Indication of when this pamphlet was published. There is no other date on it.) Picture facing p. 15. Caption: When your income is small, every penny spent for food must yield the utmost in nourishment. But often mothers don't know how. Result, malnutrition, forerunner of serious Illness. AICP nutritionists teach the necessity of a health-protective diet - give menus for appetizing meals at surprisingly low cost, prevent a vast amount of Illness and suffering. Last year AICP Nutrition Bureau reached many families through classes at AICP health centers and through instruction in the home; also through educational work in public and parochial schools. (This caption is shared by #7017 and #7015) In a 16 page, 11 x 8 pamphlet entitled, "THIS MORE ABUNDANT LIFE; 94th Year Book of the AICP - 1843-1937." This, however, is not the 1937 Annual Report, as a note opposite the title page states: "Believing that a simple but comprehensive statement of the vital community-wide services rendered by AICP will be instrumental in assuring adequate continued support for the work of this Association - without resort to a drive - a friend of AICP, who has studied its work at first-hand, has made a special contribution to defray the cost of this Year Book, which will be followed in due course by the detailed annual report containing audited financial statements." The pamphlet has no page numbers. This picture is on the page following the centerfold. Caption: BESIDE AID TO INDIVIDUALS AND FAMILIES, AICP PROMOTES HEALTH ON A COMMUNITY SCALE In addition to its work among thousands of individual families, AICP deals on a community basis with the problem of preventing illness and dependency, through health centers in congested areas of Manhattan, and its branch office in the Bronx, by "selling" health and wholesome living to entire neighborhoods. Maternity care, health education, care of pre-school children, and nutrition training - these are the principal activities. Intensive efforts are made to detect tuberculosis in its earliest stages. Results: In neighborhoods served by AICP, infant and maternity death rates have dropped; fewer babies and preschool children die of pneumonia, fewer children have rickets. Here you see an AICP nutritionist teaching a class of mothers how to make their food dollars go further.</mods:abstract>
+  <mods:note>Item no.&#xA0;0693</mods:note>
+  <mods:note>Photograph no.&#xA0;7017</mods:note>
+  <mods:note>Photographer unknown.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, "ON FOUR FRONTS - AICP Fights Poverty by (1) Restoring Families to Self-Support, (2) Building Health, (3) Giving the Kids a Break, (4) Caring for the Aged" (New York: circa 1937); New York Association for Improving the Condition of the Poor, "THIS MORE ABUNDANT LIFE" (New York: circa 1937).</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lctgm">
+    <mods:topic>Interiors</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Posters</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Nutritionists</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Mothers</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children--Nutrition</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Child rearing</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>African Americans</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>African American women</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;300</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;70</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0693</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137887</mods:identifier></mods:mods>

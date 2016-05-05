@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1267</mods:identifier>
+  <mods:name authority="naf">
+    <namePart>Morrow, Joseph</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Melting Pot</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1910</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1910</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;The original was taken by J. Morrow 121 E 90th New York for Mr. Lawrence Veiller C.O.S. very valuable COS picture  Negative filed at Arrow Photo Service, Inc. 22 West 32 New York 1 no longer there 1970 Looking north on Orchard from between Rivington and Stanton. Light colored corner bldg on left - 173 Orchard</mods:abstract>
+  <mods:abstract>Description:&#xA0;#379 photographer J. Morrow (One duplicate print and negative, not a very good one, on file) Looking north on Orchard Street from between Rivington and Stanton Streets. The light colored building on the left, northwest corner of Stanton and Orchard, is 173 Orchard and is still (1970) standing. The buildings across the top of the street were on East Houston. They were torn down when East Houston was widened in the late 1930's See #2839 and #2900 for similar photographs of Orchard Street. (Over) #379 (cont.) Used as frontispiece for pamphlet entitled "Housing Reform in New York City," report of COS Tenement House Committee for the years 1911/ 1912, 1913. Issued January, 1914. Caption: THE MELTING POT. 2,500 People To The Block. Not Enough Standing Room In The Street For All Of Them At One Time. In "A Tour Around New York," by John Flavel Mines (pseudonym Felix Oldboy; published by Harper, cl892), he relates at p. 267: "There are old frame-houses in Orchard and Market streets which recall the time when that neighborhood was a Quaker settlement, full of gardens and orchards, with comfortable homes set in with trees and shrubbery. Old people still live who remember it as the garden spot of the city."</mods:abstract>
+  <mods:note>Item no.&#xA0;1267</mods:note>
+  <mods:note>Photograph no.&#xA0;379</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>Tenement House Committee of the Charity Organization Society of the City of New York, "Housing Reform in New York City" (New York: 1914).</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Orchard Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Street vendors</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Horses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Handcarts</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Crowds</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Carriages and carts</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;43</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1267</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139601</mods:identifier></mods:mods>

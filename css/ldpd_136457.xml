@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0216</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Thalia Theatre</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1904</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1904</mods:dateCreated>
+  </mods:originInfo>Date from NYPL Digital Gallery (Image ID: 809928)<mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;46 Bowery </mods:abstract>
+  <mods:abstract>Description:&#xA0;#334 Unknown Photographer The Thalia Theatre, 46 Bowery, on the west side of the Bowery Just below Canal Street. Before 1879, the Thalia was known as the Bowery Theatre, originally built in 1826 on the site of the Bull's Head Tavern, a 1760 structure. According to "King's Handbook of New York," cl893, p.578, the Bowery opened Oct. 23, 1826, and "was the first theatre in New York to be lighted by gas. For many years Thomas S. Hamblin, who did greater work in the interest of the drama than any man of his time, was the manager. The house was the scene of Edwin Forrest's first appearance as a tragedian, on November, 1826; of Malibran's last appearance in America, October 28, 1827; of Charlotte Cushman's debut as Lady Macbeth, September 13, 1836; and of the first grand production of "London Assurance," May 16, 1842. The theatre was destroyed by fire four times. First on May 26, 1828, when it was rebuilt and reopened in ninety days. It was destroyed again September 22, 1836; for the third time, February 8, 1838; and last on April 25, 1845." After the Bowery was renamed the Thalia in 1879, German plays and operas were performed there for a number of years, then it became a Yiddish play, house, and, as late as I916, it was an Italian playhouse. Today (1970) the Canal Arcade, a dingy, vacant, one story brick building occupies the site. The Bowery, as everyone undoubtedly knows, got its name from the Dutch word "bouwerie," meaning "farm," the street having been originally the lane which led to the farms outside the city.</mods:abstract>
+  <mods:note>Item no.&#xA0;0216</mods:note>
+  <mods:note>Photograph no.&#xA0;334</mods:note>
+  <mods:note>Photographer unknown. Same image included in the NYPL Digital Gallery.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Bowery,&#xA0;46</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Theaters</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Theater, Yiddish</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Girls</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Facades</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Boys</mods:topic> 
+ </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Bowery Theatre (New York, N.Y.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Architecture--Details</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;6</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0216</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136457</mods:identifier></mods:mods>

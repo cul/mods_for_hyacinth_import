@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1318</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Drake, W. H. (William Henry)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Free Ice Water</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1884</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1884</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="gmgpc">illustrations</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;no negative</mods:abstract>
+  <mods:abstract>Description:&#xA0;#20 Drawing by W.H. Drake In &#x201C;Forty-First Annual Report of the New York Association for Improving the Condition of the Poor, for the year 1884.&#x201D; Page 57 (From the Tenement House Inspectors Report, pp. 35-60.) The Ice Water Fountain of the Berean Baptist Church, is situated in the 9th Ward, at the corner of Bedford and Downing Streets. Within the railing, but in easy reach of the passers by, are two spring faucets and chained drinking cups of galvanized iron, over a sink, the waste pipe of which is connected with the street sewer. These taps furnish water ranging in temperature from 39&#xB0; to 45&#xB0; Fahr. The fountain has been in use three summers. The present method of cooling the water is the result of several experiments and it seems to be efficient and easily managed. In the cellar under the church is an ice box about four feet square and three and a half feet high; within the box and resting on the bottom are four hundred and fifty feet of one half inch lead pipe, arranged in three coils, one over the other, through which the croton water flows; the pipe then passes under the church wall to the taps. Ice is placed on the coils of pipe. An overflow is arranged at such a height as to keep the pipe constantly covered with the water from the melting ice. The overflow in this case is a hollow plug, open below and with perforations near its upper extremity, fitting into the waste pipe of the ice box. It is thought that with the taps in constant use the croton water flowing through the pipe is subjected for ten minutes to the cooling effect of the melting ice. The picture shows a large cylindrical tank, which is simply a relic of a former experimental and defective system. This tank is now filled with sand in order to give stability to the sink and its attachments. Ordinarily one thousand pounds of ice are put into the ice box daily; in the cooler days of summer one half of that quantity suffices. One a Monday morning following a hot Saturday and Sunday twenty-one hundred pounds have been put in . . . . It is believed that the fountain has been a benefit to this thickly settled neighborhood. Men, women and children resort to it all day and late into the night. Pails and pitchers full of the cooling beverage are carried away for use at home, for the sick and others. It is a touching fact that a poor sick woman who died of consumption at No. 21 Bedford Street, used to send every day for the water at 4 o&#x2019;clock in the morning.</mods:abstract>
+  <mods:note>Item no.&#xA0;1318</mods:note>
+  <mods:note>Photograph no.&#xA0;20</mods:note>
+  <mods:note>Same scene depicted in image no. 0968 of this digital collection.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Annual Report 41 (New York: 1884).</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Bedford Street</mods:citySection>
+      <mods:citySection>Downing Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Girls</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Drinking fountains</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Boys</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;13</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;146</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1318</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139752</mods:identifier></mods:mods>

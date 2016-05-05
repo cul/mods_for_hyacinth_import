@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1321</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Tenement Fire</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1914</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1914</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;8504 6/3/89 Eagle Ave Bronx Near View Row Burned Bdg frame Fire Dec 22 1914</mods:abstract>
+  <mods:abstract>Description:&#xA0;C.S.S. ARCHIVE COPY NOT TO BE TAKEN FROM OFFICE SU The Bronx. December 28, 1914. Hon. John J. Murphy Commissioner, Tenement House Department, New York City, N.Y. Dear Sir :- I beg to advise you that shortly after 9 o&#x2019;clock on the evening of December 22nd, a fire occurred in the frame tenement house 689 Eagle Avenue, and before its progress was arrested, the third story of the eight adjoining tenements, from 673 to 687 inclusive was destroyed. These were nine attached three story frame buildings with a five story brick new law tenement on either side. The buildings were equipped with fire escapes as follows: 673 Harris fire-escapes. 675 Vertical ladder. 677 &#x201C; &#x201C; 679 &#x201C; &#x201C; 681 Balcony fire-escapes. 683 Vertical ladder 685 &#x201C; &#x201C; 687 Harris fire-escapes. 689 &#x201C; &#x201C; The records of the Department show all the buildings free from violations. There were no casualties. With Chief Inspector Jones, I visited the scene of the conflagration and on investigation found that the fire had easy means of communication from building to building by way of the space between hanging ceiling and roof which was open from end to end. (Continued.) Hon. John J. Murphy, Page 2. In view of the fact that the Bronx has had three experiences similar to this, each with a large property damage and in view of the further fact that the conditions indicate that a fire stop between hanging ceiling and roof would have materially reduced the spread of the fire, if not entirely confining it to the original house, I would respectfully suggest for your consideration hat in houses where similar conditions prevail, the Department might require that a proper fire stop be installed. In regard to your request for a recommendation as to such fire stop, I beg to say that I will forward a supplementary report covering same. Respectfully, James F. Meehan Superintendent P.S. Photographs have been taken, copies of which will be included in the supplementary report.</mods:abstract>
+  <mods:note>Item no.&#xA0;1321</mods:note>
+  <mods:note>Photograph no.&#xA0;8504</mods:note>
+  <mods:note>Photographer unknown. Related to images nos. 1322, 1323, 1324, 1325, 1326 of this digital collection.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Bronx</mods:county>
+      <mods:citySection>Eagle Avenue,&#xA0;689</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Tenement houses--Fires and fire prevention</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Tenement houses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;168</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;1</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1321</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139761</mods:identifier></mods:mods>

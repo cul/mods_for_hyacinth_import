@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_041_0359</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Monumet in Memory of Tow-Tow-Nah-Hee, an Indian Scout during the War of 1855-56</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>1917-1953</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1917-00-00</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1953-00-00</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>5 3/4 x 3 1/2</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: Stone monument saying: In memory of TOW-TOW-NAH-HEE, A non-combatent killed 3 1/2 mles north of here by OW-HAH-TAH-MA-SO, A gov't scout. Yakima War 1855-56. The only Indian Hurt in the battle of PAH-OY-TI KOOT. Erected by the Yahkimas and friends, Nov 9, 1917</abstract>
+  <note type="item">Item no. 0359</note>
+  <subject>
+    <name>
+      <namePart>Ow-hah-tah-ma-so</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Tow-tow-nah-hee</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Yakima County (Wash.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Washington (State)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>War memorials</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Yakama Indians--Wars, 1855-1859--Monuments</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Idaho</title>
+    </titleInfo>
+    <note>Original folder no. 727</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Yakima War Monuments</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 041</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_041_0359</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:130843</identifier></mods>

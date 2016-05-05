@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_055_1123</identifier>
+  <name>
+    <namePart>Coulon, E. E.</namePart>
+  </name>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Five Men Wearing Suits and Ties Posed Standing in a Field</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>Dec. 26, 1913</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1913-12-26</dateCreated>
+  </originInfo>
+  <note type="date">Postmark; Chilicco, Okla. </note>
+  <physicalDescription>
+    <extent>3 3/8 x 5 3/8 </extent>
+    <form authority="aat">postcards</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: CHILLICCO, OKLA. (postmark). LAWRENCE - DEC 23-13, 4:30 PM - KANS. (postmark). He. Mr. E.E. Lindquist, How are you now days. The boys are all getting along just fine. Give my best wishes to all the Oneidas and friend's that may know me. From E.E. Coulon </abstract>
+  <note type="item">Item no. 1123</note>
+  <note type="public">Lindquist: far right. </note>
+  <subject>
+    <name>
+      <namePart>Chilocco Indian Agricultural School</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Chilocco (Okla.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Oklahoma</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits, Group</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian men</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Men</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Oklahoma Indians</title>
+    </titleInfo>
+    <note>Original folder no. 747</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Chillocco, Oklahoma</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 055</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_055_1123</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:133546</identifier></mods>

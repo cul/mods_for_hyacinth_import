@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_046_0621</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Miss Bertha M. Eckert, Reverend G.A. Watermulder, and Mr. M.K. Sniffen beside Idaho Mountain Stream</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>June 1938</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1938-06-00</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>5 7/8 x 3 7/8</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: Miss Bertha M. Eckert, Rev. G.A. Watermulder, and Mr. M.K. Sniffen beside mountain stream in Idaho June 1938</abstract>
+  <note type="item">Item no. 0621</note>
+  <subject>
+    <name>
+      <namePart>Eckert, Bertha M.</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Watermulder, G. A.</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Sniffen, Matthew K.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Idaho</geographic>
+  </subject>
+  <subject>
+    <geographic>Idaho</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Rivers</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Landscapes</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits, Group</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Missionaries</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Men</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Women</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: National Fellowship of Indian Workers</title>
+    </titleInfo>
+    <note>Original folder no. 736</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Sub-group 5</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 046</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_046_0621</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:132152</identifier></mods>

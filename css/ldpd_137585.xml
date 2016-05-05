@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0592</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Old Men's Toy Shop Album -- Old Men Painting Toys</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1919</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1919</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;From: Old Men's Toy Shop Album</mods:abstract>
+  <mods:abstract>Description:&#xA0;#5112 From: Old Men's Toy Shop Album Unknown Photographer Excerpt from Bagdad on the Subway; A Periodical of Association [AICP] News, November 1919, No, 8. In section headed "A.I.C.P. Happenings," page 6. Since our last issue the Old Men's Toy Shop and the Women's Work Rooms have been combined, and are now under one roof in the building formerly operated by St. George's Church as a trade school. They are now known as the Crawford Shops. [Address: 505 East 16 Street.] The building has been bought and presented to the Association for the purpose. Between eighty and a hundred old people, who otherwise would be unable to work effectively because of age or physical handicap, are enabled to earn at least a little toward their support and at the same time to retain the self-respect that goes with power to earn, however large or small. The Crawford Shops also have a retail store at 28 West 51st Street. In "The Eightieth Annual Report of the A.I.C.P," 1922-1923. Paging of the report starts at page 26; pictures in preceding unpaged section entitled, "The Work of the A.I.C.P. in Illustration," Caption: Insuring Independence of Old Age. The Crawford Shops, known everywhere as The Old Men's Toy Shop and Women's Work Rooms, continue to produce toys and garments which delight hundreds of children. Here the old folks are given the chance, as they say, of "making their own way," By giving them the opportunity to earn a little, the Crawford Shops rob their last years of terror - the terror of the almshouse and the dread of not being wanted by anyone. In AICP catalog for "The Crawford Shops," Undated (probably published 1925-26). No. 14 in AICP Publications, Vol. 5, 1924-1931. Picture at page 2. Caption: Six of the veterans of the Toy Shop. Their combined age is 451 years. Three of the six were born in New York and have lived here practically all their lives.</mods:abstract>
+  <mods:note>Item no.&#xA0;0592</mods:note>
+  <mods:note>Photograph no.&#xA0;5112</mods:note>
+  <mods:note>Photographer unknown</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Bagdad on the Subway 8 (New York: 1919); New York Association for Improving the Condition of the Poor, Annual Report 80 (New York: 1922-1923); New York Association for Improving the Condition of the Poor, "The Crawford Shops" (New York: 1919).</mods:note>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Old Men's Toy Shop (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Crawford Work Shops (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>East 16th Street,&#xA0;505</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Workshops</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Toys</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Toy making</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Older people--Employment</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Older men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;618</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;14</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0592</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137585</mods:identifier></mods:mods>

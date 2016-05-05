@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_OS_1906</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Woman Standing in the Midst of the Harvesting of the &#x201C;Lord&#x2019;s Acre&#x201D;, Oneida Methodist Mission</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>1941</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1941-00-00</dateCreated>
+  </originInfo>
+  <note type="date">Date from related photograph. </note>
+  <physicalDescription>
+    <extent>4 x 5</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <note type="item">Item no. 1906</note>
+  <note type="public">Image originally from the Lindquist Papers. Box 26, folder 1.</note>
+  <subject authority="lcsh">
+    <geographic>Oneida Reservation (Wis.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Wisconsin</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Methodist church buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Methodist Church--Missions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Gardens</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Oneida Indians--Missions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian women</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Church buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Women</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Wisconsin Indians</title>
+    </titleInfo>
+    <note>Original folder no. 575</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Oneida Indians</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. OS</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_OS_1906</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:135672</identifier></mods>

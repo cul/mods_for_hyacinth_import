@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_052_1009</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Reverends C. J. Ralston, Ebenezer Hotchkin, and S.L. Bacon at Cherokee Lake Indian Encampement</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>August 1920</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1920-08-00</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 3/4 x 5 7/8</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: Rev C. J. Ralston, Caney Okla; Rev Ebenezer Hotchkin Durant, Okla., Rev S.L. Bacon Good Land Okla at Cherokee Lake Indian Encampment Aug 1920</abstract>
+  <note type="item">Item no. 1009</note>
+  <subject>
+    <name>
+      <namePart>Bacon, Silas L.</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Hotchkin, Ebenezer</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Ralston, C. J.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Oklahoma</geographic>
+  </subject>
+  <subject>
+    <geographic>Oklahoma</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Missionaries</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits, Group</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Men</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian men</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Oklahoma Indians</title>
+    </titleInfo>
+    <note>Original folder no. 745</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Cherokee Lake classes</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 052</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_052_1009</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:133243</identifier></mods>

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_051_0928</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Trainload of Jicarillo Lambs</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>October 30, 1931</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1931-10-30</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>2 3/4 x 4 1/2</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: A trainload of Jicarillo lambs, shipped from Dulce, N.M., Oct 30/31 //  The train contains 40 double decker cars of lambs. The cars averaged 196 lambs. With 6 extre to the shipment numbered 7850 lambs. // The lambs averaged in weight 61lbs. //  East lamb brought about $3.00. //  As much as $8 per lamb has been received.</abstract>
+  <note type="item">Item no. 0928</note>
+  <subject authority="lcsh">
+    <geographic>Dulce (N.M.)</geographic>
+  </subject>
+  <subject>
+    <geographic>New Mexico</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Livestock</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sheep</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Railroad trains</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: New Mexico Indians</title>
+    </titleInfo>
+    <note>Original folder no. 742</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Jicarilla Apache, N. Mex. </title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 051</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_051_0928</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:133007</identifier></mods>

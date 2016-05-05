@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0390</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Mulberry Health Center Album -- Dental Clinic</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1918</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1918</mods:dateCreated>
+  </mods:originInfo>Date from description sheet.<mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;From: Mulberry Health Center Album</mods:abstract>
+  <mods:abstract>Description:&#xA0;#4043 Unknown Photographer From: Mulberry Health Center Album In AICP "Annual Report 1918" (1917-1918). Picture at p. 19. DENTAL CLINIC - "Child's teeth must have attention if any improvement in health is expected." Such is the diagnosis often given "by the clinic doctor to whom anemic sickly children are taken for examination. It was to make such improvement in health possible that the Association added a dental clinic to its Nursing Bureau work last year. Through it treatment was furnished to 2,452 patients, many of these being school children. (See Over.) #4043 (Continued) Also in: "Last Year's Work and This Year's Challenge," 76th Annual Report of AICP (1918-1919). Picture at page 10, top left. DENTAL SERVICE - If you expect to win out against ill health in a child whose mouth has diseased teeth, you will probably be the loser - unless you get the dentist into the fight with you. Bagdad on the Subway; A Monthly Bulletin of Association [AICP] News, No. 7, September 1919, p. 4. Illustration for article entitled, "Dental Clinic Opened in Italian District," pages 4-5. Article begins: "The preventive dental work for children which the A.I.C.P. inaugurated in August, just prior to the opening of schools, is interesting in two respects, namely, the city of New York up to now has not made any especially important steps along the line of preventive dentistry among children between their infant age and the time they are ready to enter school, and the work of this clinic is to be confined to one district of Manhattan until the results and the effects of the work are ascertained. "The clinic has been opened under the direction of Dr. Dwight R. Wilson in one of the large ground floor rooms of the Italian Day School of the Children's Aid Society, which generously has loaned the use of the room to the A.I.C.P. and thus made possible the start of the work. ". . .in the Italian section of Manhattan, which extends from Canal to Houston Streets, between Broadway and the Bowery. . ." See #4338 for next step.</mods:abstract>
+  <mods:note>Item no.&#xA0;0390</mods:note>
+  <mods:note>Photograph no.&#xA0;4043</mods:note>
+  <mods:note>Photographer unknown. Street information found in Medical record, vol. 96 (New York: 1919): 383</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Hester Street,&#xA0;154</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Girls</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dentists</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dental public health</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dental instruments and apparatus</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Dental clinics</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children--Health and hygiene</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Chairs</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;617</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;5</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0390</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136979</mods:identifier></mods:mods>

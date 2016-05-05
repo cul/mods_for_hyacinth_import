@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_048_0714</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Dormitory, Pyramid Lake Reservation, Nixon, Nevada</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>June 14, 1920</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1920-06-14</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 5/8 x 5 3/4</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: Dormitory (abandoned) Pyramid Lake Reservation, Nixon, Nevada</abstract>
+  <abstract>Verso annotation: Pyramid Lake reservation, Nixon, Nevada Dormitory -- abandoned</abstract>
+  <note type="item">Item no. 0714</note>
+  <subject authority="lcsh">
+    <geographic>Nixon (Nev.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Pyramid Lake Indian Reservation (Nev.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Nevada</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Playgrounds</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America--Education</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dormitories</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>School buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Boarding schools</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Abandoned buildings</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Nevada Indians</title>
+    </titleInfo>
+    <note>Original folder no. 739</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Pyramid Lake Reservation</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 048</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_048_0714</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:132407</identifier></mods>

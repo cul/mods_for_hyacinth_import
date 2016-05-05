@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0688</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Conway Studios (New York, N.Y.)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Community Service Society Trustees </mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1942</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1942</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;Stamped on front (across Mr. Henry and Mr. Gifford) Conway Studios New York, N.Y. The 1969-70 Telephone directory has a Conway Studios 3 West 30 St. Phone: 736-9100    Seated, L to R: Barklie Henry, Walter Gifford, Bayard Pope   Standing, L to R: Samuel Welldon, Franklin Kirkbride, Charles E. Merrill, William J. O'Connor,  &lt;text&gt; recognize.   Identified by Miss Tousley, 10/1/71.</mods:abstract>
+  <mods:abstract>Description:&#xA0;#7060 Stamped Conway Studios This picture was taken sometime after AICP and COS merged on April 12, 1939, to form the CSS. Seated, left to right: Barklie McKee Henry, President of CSS and former President of AICP; Walter S. Gifford, Chairman of Board of CSS and former President of COS; Bayard F. Pope, Vice-Chairman of Board of CSS and former Vice-President of COS. Standing, left to right: Samuel A. Welldon, CSS Board of Trustees and former COS Central Council; Franklin B. Kirkbride, CSS Board of Trustees and former AICP Board of Managers; Charles E. Merrill, Jr., CSS Board of Trustees and former COS Central Council; William J. O'Connor, CSS Board of Trustees*; last man not identified.** For additional Information regarding any of the above, see "Corporate Files, Trustees (Past)" in the Archives. * Mr. O'Connor was appointed to the CSS Board In I942. This picture, therefore, could not have been taken before 1942. **The gentlemen In this picture were identified Oct. 1, 1971, by Miss Clare M. Tousley, former Director of the Department of Public Interest, who retired In I954.</mods:abstract>
+  <mods:note>Item no.&#xA0;0688</mods:note>
+  <mods:note>Photograph no.&#xA0;7060</mods:note>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Pope, Bayard F., 1887-1968</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Kirkbride, Franklin Butler, 1867-1955</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Henry, Barklie McKee, 1902-1966</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Gifford, Walter S. (Walter Sherman), 1885-1966</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Trusts and trustees</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Portraits, Group</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;300</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;65</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0688</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137872</mods:identifier></mods:mods>

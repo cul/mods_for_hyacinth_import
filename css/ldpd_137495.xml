@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0562</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Off to Sea Breeze</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1920</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1920</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;1920</mods:abstract>
+  <mods:abstract>Description:&#xA0;#4462 &amp; #4466 Unknown Photographer The man in the straw hat in #4462 is William H. Matthews, Director of the AICP Department of Family Welfare. The Bureau of Country Outings, which included Sea Breeze, was under the jurisdiction of the Department of Family Welfare. This is undoubtedly an "Off to Sea Breeze" picture (see also #4467). The date on the license plate of the omnibus is 1920 - the last year for Sea Breeze at Coney Island. As related in AICP's 77th Annual Report, 1919-1920, p. 8: "In 1883 A.I.C.P. conducted its first fresh air day party to Sea Breeze, Coney Island. There were no buildings of any kind and the mothers and children had the beach pretty much to themselves. In 1892 the Association purchased the site upon which...Sea Breeze was finally developed until provision was made for accommodations for nearly 400 guests...During the past decade the congestion of beach and buildings has become so great that it became impossible to operate without much inconvenience to Sea Breeze mothers and children. This condition led the Association to look for a new site for a New Sea Breeze. After much searching a splendid site of eighty acres, known as woods of Arden, Staten Island, with 1,000 feet of water front on New York Bay, was purchased. This acquisition was made possible by a gift of $120,000 from the Laura Spelman Rockefeller Foundation... On the Woods of Arden property there will be seen at present a great stretch of buildings, where a few months ago all was bare and windswept. There are some sixteen buildings in all. They have a history. During the war period they stood on the Rockefeller Institute property at 63rd Street and Avenue A, having been erected and used by the Rockefeller Foundation as a war demonstration hospital...given to A.I.C.P. ...and a gift of $100,000 ... to make possible their removal and erection ... Thus 1921 will carry on for those mothers and children the joy and happiness of the Old Sea Breeze." The building on the left in #4466 is the East 23rd Street Bath, on Asser Levy Place (formerly Avenue A), between 23rd and 24th streets, and it is the only building in #4462 and #4466 still standing (1973). The buildings on the right were demolished to make way for the Veterans Administration Hospital. The ones in the background and the gas tanks beyond are now part of the site of Cooper Village, built by the Metropolitan Life Insurance Company in the 1940's. A picture similar to #4462, taken at the same time, was one of several used to illustrate an article in the Herald Tribune, Feb. 29, 1948, when "Frontiers in Human Welfare," was published by CSS as part of the 100th Anniversary. (Clipping filed in History File - AICP-COS-CSS; folder heading Sea Breeze -Vacation Camp.) None of the pictures illustrating this article are in the CSS Picture Collection - nor are any of the innumerable Sea Breeze - Coney Island pictures used in AICP annual reports. There are later Sea Breeze - Staten Island pictures in a file in the Archives.</mods:abstract>
+  <mods:note>Item no.&#xA0;0562</mods:note>
+  <mods:note>Photograph no.&#xA0;4462</mods:note>
+  <mods:note>Photographer unknown. Related to image no. 0563 in this digital collection.</mods:note>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Sea Breeze Hospital (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Matthews, William Henry, 1873-1946</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>East 23rd Street</mods:citySection>
+      <mods:citySection>Asser Levy Place</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buses</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;299</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;79</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0562</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137495</mods:identifier></mods:mods>

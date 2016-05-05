@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_038_0238</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>School of the Presbyterian Mission, North Fork, California</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>04-22-1920</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1920-04-22</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 1/2 x 5 1/2</extent>
+    <form authority="gmgpc">negatives</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: School Room. Presbyterian Mission, North Fork, Calif.</abstract>
+  <note type="item">Item no. 0238</note>
+  <note type="public">Positive image of a scanned negative from The Burke Archives.</note>
+  <subject>
+    <name>
+      <namePart>North Fork Presbyterian Mission</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>North Fork (Calif.)</geographic>
+  </subject>
+  <subject>
+    <geographic>California</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Boarding schools</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>School buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Presbyterian Church--Missions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America--Education</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: California Indians</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Presbyterian Mission, North Fork, Calif.</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 038</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_038_0238</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:130747</identifier></mods>

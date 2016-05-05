@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_OS_1903</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>New Home on the Santa Rosa Reservation</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>1943</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1943-00-00</dateCreated>
+  </originInfo>
+  <note type="date">Original folder title.</note>
+  <physicalDescription>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: New home constructed under Rehabilitation plan for full blood Cahuilla Indian living at Santa Rosa Reservation. </abstract>
+  <note type="item">Item no. 1903</note>
+  <note type="public">Image originally from the Lindquist Papers. Box 21, folder 10. </note>
+  <subject authority="lcsh">
+    <geographic>Santa Rosa Indian Reservation (Calif.)</geographic>
+  </subject>
+  <subject>
+    <geographic>California</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Architecture, Domestic</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian men</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Cahuilla Indians</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America--Dwellings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Men</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: California Indians</title>
+    </titleInfo>
+    <note>Original folder no. 463</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. OS</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_OS_1903</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:135663</identifier></mods>

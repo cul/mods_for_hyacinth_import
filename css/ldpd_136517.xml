@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0236</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Drake, W. H. (William Henry)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Another Side of the Question</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>Between 1884 and 1926</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1884</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1926</mods:dateCreated>
+  </mods:originInfo>Date based on publication information on CSS description sheet.<mods:physicalDescription>
+    <mods:form authority="gmgpc">illustrations</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;No negative</mods:abstract>
+  <mods:abstract>Description:&#xA0;#21 Drawing by W. H. Drake In "Forty-First Annual Report of the New York Association for Improving the Condition of the Poor, for the year 1884." Page 56 (From the Tenement House Inspectors Report, pp. 35-60.) Water and Roosevelt Streets. Our last annual report contained front and rear views of Miss Ellen Collins' Improved Tenements. Lately three houses adjoining, on Water Street, have been, after much persistence, rescued from their former condition of resorts for the vicious and homes for the depraved, and have been added to the property which has done so much to improve this otherwise notorious bad neighborhood. The street doors of these three houses have been bricked up as far as the sills of what are now endows, and entrance is only had through the halls of the corner buildings. A neat iron stairway leads from the outside in the rear to the second floors; interiors have been remodelled, the old yard sheds removed and their space occupied by a cheerful garden, the area of which, added to that formerly existing, is about 2200 square feet. Paint, kalsomine, gas, water and good plumbing, in addition, have, as by magic, changed in a few short weeks the former dismal dens of vice into salubrious homes. There is an article about Miss Collins' tenements in CHARITIES, Aug. 27, 1904, pp. 868-870, which says that Miss Collins "bought the Water Street property somewhat from sentimental reasons." "Long before the district dilapidated into the unsavory Cherry Hill, it was the neighborhood in which her family dwelt. As a girl she lived nearby. Twenty-three years ago she bought the corner property at Water and Roosevelt streets for $22,000, renovated it to the very laths and offered it for rent in two, three and four-room flats. The rates, based on the original purchase price, have not been advanced during these years, but the income has averaged five and one-half per cent net on the investment . . . Five and one-half per cent on $22,000 satisfied Miss Collins . . ." Miss Collins was the daughter of Joseph B. Collins, who was an officer (Recording Secretary) of the AICP from the date of its founding until his death in 1867. She was also a friend of Josephine Shaw Lowell and Louisa Lee Schuyler (founder of the State Charities Aid Association) from the days when they worked together in the "San.Com." (U.S. Sanitary Commission, forerunner of the American Red Cross) during the Civil War.</mods:abstract>
+  <mods:note>Item no.&#xA0;0236</mods:note>
+  <mods:note>Photograph no.&#xA0;21</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Annual Report 41 (New York: 1884): 56.</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Water Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Tenement houses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Play</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Gardens</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Courtyards</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Cats</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;26</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0236</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136517</mods:identifier></mods:mods>

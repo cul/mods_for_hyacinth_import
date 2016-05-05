@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0242</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Model Wet Wash Laundry</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1914</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1914</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Description:&#xA0;#1030 Unknown Photographer In "Year Book - New York Association for Improving the Condition of the Poor, 1915 (1914-1915), opposite page 78. Caption: The Wet Wash Laundry. A pioneer laundry, at the service of the neighborhood, at cost - sanitary, cheap, clean, quick, reliable, good wages, light, airy. Pages 64 &amp; 65. The Model Wet Wash Laundry The major activity of the Bureau [of Public Health and Hygiene] has been the establishment and operation of a model wet wash laundry. [Steps leading to establishment related.] A canvass of the homes in the neighborhood of the Milbank Bath Building, on East 38th Street [325], clearly indicated that such a laundry would be warmly welcomed. The second floor of the Bath was then altered, and the necessary laundry equipment installed in place of thirty-six shower baths. . . . The charges determined upon were 25 cents for a thirty-pound bundle brought to the laundry and called for, and 35 cents when the collection and delivery system was made use of. On November 16, the laundry began operations. Each month has shown a constantly increasing volume of business, the number of bundles washed per week increasing from 98 to 500. The heavy expenses of wagon service necessitated a change in the charge from 35 cents to 50 cents for bundles collected and delivered by wagon. Also in: Pamphlet "Constructive Social Measures; A Review of Two Year's Work," Department of Social Welfare, AICP, June 1915, opposite page 16. Caption: THE WET WASH LAUNDRY. Cleanliness and Sanitation in Clothes Washing - A close Relation between Decency and Health. Page 19. The Wet Wash Laundry ... at the present time operated to its full capacity, serving an average of about 425 families a week at a charge of 25 cents for 30 pounds of clothes, or 35 cents when collected and delivered . . . AICP "1917 Year Book" (1916-1917), page 13 top. Caption: WET-WASH LAUNDRY substitutes for eight hundred mothers at a cost of thirty-five cents weekly modern facilities and sterilizing process for back-breaking work without laundry conveniences. The Wet Wash Laundry was discontinued in 19.</mods:abstract>
+  <mods:note>Item no.&#xA0;0242</mods:note>
+  <mods:note>Photograph no.&#xA0;1030</mods:note>
+  <mods:note>Photographer unknown. The Wet Wash Laundry was located in the Milbank Memorial Bath building. See image #0217 in this collection.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Yearbook 1915 (New York: 1915).</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>East 38th Street,&#xA0;325-327</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Washing machines</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Milbank Memorial Bath (New York, N.Y.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Laundry workers</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Laundry machinery</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Laundry industry</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Laundry</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Baskets</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;32</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0242</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136535</mods:identifier></mods:mods>

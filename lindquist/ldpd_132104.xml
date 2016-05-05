@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_046_0605</identifier>
+  <name>
+    <namePart>Burris, C. A.</namePart>
+  </name>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Gravestones of Kate McBeth and Susan Law McBeth (Missionary to the Nez Perces) </title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>June 1940</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1940-06-00</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>2 3/4 x 4 1/2</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: Picture of the McBeth Sister's Graves. This Cemetery is near Kamiah. Ida. Picture By C.A. Burris Nespelem Wa. June 1940</abstract>
+  <note type="item">Item no. 0605</note>
+  <subject>
+    <name>
+      <namePart>McBeth, Kate C., 1832-1915</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>McBeth, Sue L., d. 1893</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Kamiah (Idaho)</geographic>
+  </subject>
+  <subject>
+    <geographic>Idaho</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Nez Perce&#x301; Indians--Missions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sepulchral monuments</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Missionaries</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: National Fellowship of Indian Workers</title>
+    </titleInfo>
+    <note>Original folder no. 736</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Sub-group 3</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 046</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_046_0605</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:132104</identifier></mods>

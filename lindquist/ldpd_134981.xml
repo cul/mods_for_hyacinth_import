@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_063_1651</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Old Buildings on Uintah and Ouray Reservation, Fort Duchesne, Utah</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>June 3, 1920</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1920-06-03</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1953-00-00</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 1/4 x 5 1/2</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: Old b'ld'gs. used for warehouses, etc. Uintah + Ouray Resv. Ft. Duchesne, Utah</abstract>
+  <abstract>Verso annotation: Ft. Duchesne, Utah, Uintah + Ouray reserv'n Old buildings used for warehouses +c. 6/3/20</abstract>
+  <note type="item">Item no. 1651</note>
+  <subject authority="lcsh">
+    <geographic>Fort Duchesne (Utah)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Uintah and Ouray Indian Reservation (Utah)</geographic>
+  </subject>
+  <subject>
+    <geographic>Utah</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Warehouses</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Utah Indians</title>
+    </titleInfo>
+    <note>Original folder no. 760</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 063</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_063_1651</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:134981</identifier></mods>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+        <identifier type="local">ldpd.russianpages.3h001</identifier>
+        <name type="personal">
+            <namePart>Nicholas II, Emperor of Russia, 1868-1918</namePart>
+        </name>
+        <titleInfo>
+            <title>Coronation. Khodynka Program</title>
+        </titleInfo>
+        <typeOfResource>text</typeOfResource>
+        <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <form authority="gmgpc">printed ephemera</form>
+            <reformattingQuality>access</reformattingQuality>
+            <internetMediaType>image/tiff</internetMediaType>
+            <internetMediaType>image/jpeg</internetMediaType>
+            <digitalOrigin>reformatted digital</digitalOrigin>
+        </physicalDescription>
+        <originInfo>
+            <place>
+                <placeTerm type="text">Moscow</placeTerm>
+            </place>
+            <publisher>A. Levenson</publisher>
+            <dateIssued> May 1896 </dateIssued>
+            <dateIssued keyDate="yes">1896-05</dateIssued>
+        </originInfo>
+        <location>
+            <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+            <physicalLocation>Rare Book and Manuscript Library, Columbia University</physicalLocation>
+            <url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/eresources/exhibitions/pages/html/3h001.html</url>
+        </location>
+        <relatedItem displayLabel="Collection" type="host">
+            <titleInfo>
+                <title>Soiuz Pazhei Papers</title>
+            </titleInfo>
+        </relatedItem>
+        <relatedItem displayLabel="Project" type="host">
+            <titleInfo>
+                <title>Russian Imperial Corps of Pages</title>
+            </titleInfo>
+            <location>
+                <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio4171223</url>
+            </location>
+        </relatedItem>
+        <note>Nicholas II Coronation. Program of festivities on Khodynka field.</note>
+        <note type="ownership">Purchase, 1957</note>
+        <subject>
+            <name authority="naf" type="corporate">
+                <namePart>Pazhesk&#x12B;&#x12D; Ego Imperatorskago Velichestva korpus (Russia)</namePart>
+            </name>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Russia--Court and courtiers</topic>
+        </subject>
+        <accessCondition type="useAndReproduction">No known restrictions.</accessCondition>
+        <recordInfo>
+            <recordCreationDate encoding="w3cdtf">2010-12-08</recordCreationDate>
+            <recordContentSource authority="marcorg">NNC</recordContentSource>
+            <languageOfCataloging>
+                <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+            <recordOrigin>From 'Russian Imperial Corps of Pages Online Exhibition Catalog,' edited to conform to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+        </recordInfo>
+    <identifier type="fedora_pid">ldpd:113901</identifier></mods>

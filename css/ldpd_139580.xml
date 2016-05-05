@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1260</mods:identifier>
+  <mods:name authority="naf">
+    <namePart>Wurts Bros. (New York, N.Y.)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Hudson Park on Lower West Side</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1900</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1900</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on front:&#xA0;Frontispiece to Vol. II. Hudson Park. On the lower West side</mods:abstract>
+  <mods:abstract>Description:&#xA0;#313 &#x201C;Wurtz (?) Bros. Photo&#x201D; Looking east toward Seventh Avenue South from Hudson Street. The street on the left is St. Luke&#x2019;s Place, a one block interruption of Leroy Street, and the one on the right is Clarkson Street. Frontispiece in Vol. II of &#x201C;The Tenement House Problem; Including the Report of the New York State Tenement House Commission of 1900,&#x201D; by Various Writers, edited by Robert W. DeForest and Lawrence Veiller. N.Y., Macmillan, c1903. (The handwriting on this picture and #312 may be that of one of the authors when preparing the volumes for the printers. From signatures in the files, the writing looks more like that of Robert W. DeForest than of Lawrence Veiller.) The official name of the park today (1971) is the James J. Walker Park. &#x201C;Jimmie&#x201D; Walker was elected Mayor of New York City in 1926 and resigned September 1, 1932, as a result of an &#x201C;inquiry into corruption in conduct of his office.&#x201D; Usually referred to as the Seabury investigation. The Walker family residence was at 6 St. Luke&#x2019;s Place, which may account for the re-naming of the park. There isn&#x2019;t a blade of grass or a tree in the park today. The entire area has been asphalted over for the playing of various games &#x2013; tennis, basketball, football, even bocci, an Italian game somewhat like bowling. Before the area was &#x201C;converted&#x201D; into a park in 1898, it was the burial ground for Trinity Parish (see #576). The only reminder today that the park was once a cemetery is the Firemen&#x2019;s Monument, at present stuck into the left (St. Luke&#x2019;s Place) corner on the Seventh Avenue South side. This memorial was erected to commemorate two members of Engine 13 of the N.Y. Volunteer Fire Department, Eugene Underhill, 20 years old, and Frederick A. Ward, 22, who died fighting a fire in Pearl Street, July 1, 1839.</mods:abstract>
+  <mods:note>Item no.&#xA0;1260</mods:note>
+  <mods:note>Photograph no.&#xA0;313</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>DeForest, Robert and Lawrence Veiller, eds. "The Tenement House Problem; Including the Report of the New York State Tenement House Commission of 1900." New York: Macmillan, circa 1903.</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>James J. Walker Park (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>St. Luke's Place</mods:citySection>
+      <mods:citySection>Hudson Street</mods:citySection>
+      <mods:citySection>Seventh Avenue</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Parks</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Memorials</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;36</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1260</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139580</mods:identifier></mods:mods>

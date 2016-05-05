@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0045</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Beals, Jessie Tarbox</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Old Men's Toy Shop Album -- Old Men's Toy Shop </mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1914-1916</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1914</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1916</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;From: Old Men's Toy Shop Album</mods:abstract>
+  <mods:abstract>Description:&#xA0;Box 297 Folder 4 #1584 Photographer probably Jessie Tarbox Beals From: Old Men's Toy Shop Album Negative on File In "1915 Year Book and 72nd Annual Report" of AICP (1914- 1915) Picture facing p. 25. (Top of page.) Old Men's Toy Shop "To give an opportunity to old and otherwise handicapped men the Association is trying the experiment of conducting a workshop for the making of toys and any other articles that lend themselves to such purpose." From material attached to a letter in the Archives Historical File Crawford Shops, addressed to Jay M. Fredricks, dated July 27, 1916. "Thomas L., aged 52, lost a leg twenty years ago and for eighteen years worked on a canal boat with a very poor substitute for an artificial leg. (See first man on left in picture.) His eyesight failed and he could no longer work with safety. Last fall he was sitting in Battery Park one day, with nothing to do and no prospect of anything to do when someone told him of the Toy Shop. He immediately walked all the way to 50th Street to apply for work. He began work the next morning and has been in the shop since, and, although without experience, he is one of the best painters in the shop. He has no family or friends who can help him." Used to illustrate ad for Old Men's Toy Shop in Bagdad on the Subway A Monthly Bulletin of Association (AICP) News, No. 2, Nov. 1917, p. 15. Also in ad for Old Men's Toy Shop, Bagdad on the Subway, No. 3 Dec. 1917, p. 15. Address given for store: 680 Fifth Avenue. Used as illustration in two undated leaflets about the Old Men's Toy Shop in AICP Publications, Vol. 3, 1913-1916. (One leaflet has 1915 written on it; the other 1916.)</mods:abstract>
+  <mods:note>Item no.&#xA0;0045</mods:note>
+  <mods:note>Photograph no.&#xA0;1584</mods:note>
+  <mods:note>Attributed to Jessie Tarbox Beals.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, 1915 Year Book and 72nd Annual Report (New York: 1914-1915); New York Association for Improving the Condition of the Poor, Bagdad on the Subway 2 (1917): 15; New York Association for Improving the Condition of the Poor, Bagdad on the Subway 3 (1917): 15.</mods:note>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Old Men's Toy Shop (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Workshops</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Toys</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Toy making</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lctgm">
+    <mods:topic>Interiors</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>People with disabilities</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Older people--Employment</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Older men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men--Employment</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;12</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;94</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0045</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:135957</mods:identifier></mods:mods>

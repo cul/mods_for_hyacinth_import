@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_035_0051</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Mr. Stokely Teaching from God's Word at Trading Post</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>circa 1930s</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1930-00-00</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1939-00-00</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>2 1/2 x4 1/2</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: Mr. Stokely giving a message from God's Word to group gathered at trading post.</abstract>
+  <note type="item">Item no. 0051</note>
+  <subject>
+    <name>
+      <namePart>Stokely, B. J.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Arizona</geographic>
+  </subject>
+  <subject>
+    <geographic>Arizona</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America--Missions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Trading posts</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Evangelistic work--Biblical teaching</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Eastern Navajo Indians, Crown Point, Arizona</title>
+    </titleInfo>
+    <note>Original folder no. 715</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Navajo, Arizona</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 035</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_035_0051</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:130560</identifier></mods>

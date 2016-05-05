@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0217</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Public Bath with Debris</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1904</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1904</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;Photo taken before opening in May 1904.</mods:abstract>
+  <mods:abstract>Description:&#xA0;In "Last Year's Work and This Year's Challenge"; the 76th Annual Report of the AICP, 1918-1919, p. 23. The Milbank Memorial Bath was used by 71,761 bathers last year. Since the Association established its first public bath, the municipality has established twenty-two public baths nearly all of them providing more extensive facilities than the Milbank Memorial Bath. The A.I.C.P. therefore concluded that the Milbank Bath had fulfilled its mission of demonstrating to the city the need of such facilities. The entire building was given over on October 1st, 1919, to the Public Wet Wash Laundry to meet the growing demand for this service. The Centre Market Place Baths closed January 5, 1909 (see 66th Annual Report of the AICP, year ending Sept. 30, 1909, p. 75). At page 11 of the same report the text refers to the "surrender" of the Baths and goes on to say, "In 1891 the Association began its campaign for the establishment by the city of a system of public baths," pointing the way by constructing the Centre Market Place Baths which "led to the construction by the city of 14 municipal baths." Today (1969) the site is a parking lot. The Milbank Memorial Baths closed in. The building, with one story added and windows on the second floor changed, is (in 1969) the Chiropractic Institute of N.Y. Many of the Municipal Baths now have outdoor swimming pools. The one on East 23rd Street is a particularly handsome example. #315 Unknown Photographer Similar picture, with street cleared of building debris, used as frontispiece in AICP Annual Report for the "Fiscal Year Ending September 30, 1904." Caption: PEOPLE'S BATHS, MILBANK MEMORIAL. Formally conveyed to the Association by Mrs. Elizabeth Milbank Anderson,May 19th, 1904. Page 18: At our two public bath houses, we have given 233,000 baths. Largely as the result of the educational work which for thirteen years has centered in the People's Baths in Centre Market Place, the city government has definitely committed itself to a comprehensive plan for bathing facilities within reach of every tenement home. . . . The new Milbank Memorial Baths with 93 showers and 9 tubs gave from the opening, May 19, to September 30, 105,300 baths . . . (See over) From the 59th Annual Report of the AICP, 1901-1902, page l8. The most interesting special work of the past year has been done by the Committee on Public Baths. The work of the committee is embodied in the communication to the Hon. Jacob A. Cantor, President of the Borough of Manhattan, under date of February 25, 1902, which has been issued in pamphlet form . . . The import of our committee also resulted in an offer from Mrs. Elizabeth Milbank Anderson to construct a bath to become the property of and to be administered by this Association. To carry out this offer she has purchased the lots Nos. 325 and 327 East Thirty-eighth Street, and work has begun on the building. From the 60th Annual Report of the AICP, 1902-1903, page 80. Not later than January first we shall be able to open the public bath which is being erected for the Association by Mrs. Elizabeth Milbank Anderson. It is to be recalled that this building is one of the tangible results of the Association's report of 1902 to the Borough President. We had hoped to open this bath during the summer, but the construction was delayed because of a strike . . . The frontispiece in "History, Condition and Needs of Public Baths in Manhattan" by Stanley H. Howe, AICP Publication No. 71(undated, but Archives Vault copy has 1912 written on it) is a later picture of the Milbank Memorial Baths (house at left replaced by commercial building). Opposite page 10 is a picture of Centre Market Place baths with caption, "The first interior public bath in America." The baths were formally opened to the public August 17, 1891. The plot of ground was given by the New York City Mission and Tract Society when the AICP "determined to build the first 'People's Bath.'" This determination resulted from an editorial in the Philadelphia Times and Register, August 24, 1889, by Dr. Simon Baruch, which described a new system of public "rain-baths" in Germany and recommended adoption in the United States. Today (1969), 9 Centre Market Place is a parking lot. The Milbank Memorial building is (1969) the Chiropractic Institute of N.Y. One story has been added and the windows on the second floor have been changed.</mods:abstract>
+  <mods:note>Item no.&#xA0;0217</mods:note>
+  <mods:note>Photograph no.&#xA0;315</mods:note>
+  <mods:note>Photographer unknown. The Milbank Memorial Bath later also housed the Wet Wash Laundry. See images 0242 and 0243 in this collection.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor. "Last Year's Work and This Year's Challenge" in Annual Report 76 (New York: 1918-19): 23.</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>East 38th Street,&#xA0;325-327</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Refuse and refuse disposal</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Public baths</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Milbank Memorial Bath (New York, N.Y.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;7</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0217</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>   
+   <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136460</mods:identifier></mods:mods>

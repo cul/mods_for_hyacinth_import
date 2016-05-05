@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_060_1437</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>First Years Students, Roe Institute, Wichita, Kansas</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>1915-1916</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1915-00-00</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1916-00-00</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>6 5/8 x 10</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: FIRST YEARS STUDENTS ROE INSTITUTE, WICHITA, KANSAS 1915-1916</abstract>
+  <note type="item">Item no. 1437</note>
+  <note type="public">"In the fall of 1915, the Roe Indian Institute, renamed the American Indian Institute in 1920, opened in Wichita, Kansas, as the only Indian-run high school in the country." (Jean Sanders: Henry Roe Cloud, pioneering Native American educator, c2004, http://www.nsea.org/news/RoeCloudProfile.htm accessed: Oct. 31, 2011.)  Related to image #1878 in this collection. Lindquist: first row, second from the right. </note>
+  <subject>
+    <name>
+      <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Roe Indian Institute (Wichita, Kan.)</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>American Indian Institute (Wichita, Kan.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Wichita (Kan.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Kansas</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian youth</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits, Group</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America--Education</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian students</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Roe Institute, Wichita, Kansas</title>
+    </titleInfo>
+    <note>Original folder no. 754</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 060</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_060_1437</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:134392</identifier></mods>

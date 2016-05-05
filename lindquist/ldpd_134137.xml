@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_058_1346</identifier>
+  <name>
+    <namePart>Roe, Mary W.</namePart>
+  </name>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Columbian Memorial Church Postcard, Colony, Oklahoma</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>Dec. 29. '09</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1909-12-29</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 5/8 x 5 1/2</extent>
+    <form authority="aat">postcards</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: Columbia memorial Church, Colony, Ok  Dr. Roe Says" Do not tie yourself up to a Foreign Mission Val. Pledge as the Lord may want you for Home Indians</abstract>
+  <abstract>Verso annotation: Dear E. Glad to think of you all gathering in the Name of Christ . Our Henry is in the Yale Del. Address c/o Fuller, 3-44 East Ave There will also be [acceptance?]of our Indian workers who may be a comrade of yours next semester Mr Jas. Bell. Louisville Theo. Seminary, Ky.  Henry can tell you where he is. M W. Roe </abstract>
+  <note type="item">Item no. 1346</note>
+  <note type="public">This church is generally referred to as "Columbian Memorial Church in Colony". See David W. Messer. Henry Roe Cloud: A Biography, c2010. p. 46</note>
+  <subject>
+    <name>
+      <namePart>Columbian Memorial Church (Colony, Okla.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Colony (Okla.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Oklahoma</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America--Missions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Church buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Reformed church buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Reformed Church in America--Missions</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Oklahoma Indians</title>
+    </titleInfo>
+    <note>Original folder no. 751</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 058</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_058_1346</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:134137</identifier></mods>

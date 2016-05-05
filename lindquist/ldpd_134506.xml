@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_060_1478</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Epiphany Episcopal Church, Rosebud Reservation, South Dakota</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>between 1912 and 1953</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1912-00-00</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1953-00-00</dateCreated>
+  </originInfo>
+  <note type="date">Date based on the earliest and latest dates of the Lindquist collection.</note>
+  <physicalDescription>
+    <extent>4 7/8 x 3 7/8</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: Epiphany Episcopal Church Rosebud Reservation S.D. XIII_1</abstract>
+  <abstract>Verso annotation: #46 Epi[phan]y Epis, Rosebud Res.S.D.</abstract>
+  <note type="item">Item no. 1478</note>
+  <subject authority="lcsh">
+    <geographic>Rosebud Indian Reservation (S.D.)</geographic>
+  </subject>
+  <subject>
+    <geographic>South Dakota</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Church buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Anglican church buildings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Episcopal Church--Missions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America--Missions</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: South Dakota Indians</title>
+    </titleInfo>
+    <note>Original folder no. 756</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 060</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_060_1478</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:134506</identifier></mods>

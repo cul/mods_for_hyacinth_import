@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_041_0392</identifier>
+  <name>
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Mexican Indians Sitting outside a Shack</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>1935-8-31</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1935-08-31</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>3 1/2 x 5 1/2</extent>
+    <form authority="aat">postcards</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: 1528XOCHIMLLCOD.F.</abstract>
+  <abstract>Verso annotation: To Mr. G.E.E. Lindquist and family - (Kansas address written and crossed out), Chicago, Ill. Lasalle, Room 1014. TEXT: Mexico City, Aug 31. What would happen if our Indians lived like this? We are seeing many interesting people and sights down here. Plan to be in these parts until Sept 12. I expect to reach Y.W.C.A. Tucson, Ariz., on Sept 17, then Phoenix the 19th or 20th. Regards to all E.M.D.</abstract>
+  <note type="item">Item no. 0392</note>
+  <subject authority="lcsh">
+    <geographic>Mexico</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Architecture, Domestic</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of Mexico--Dwellings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of Mexico</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Mexico Indians</title>
+    </titleInfo>
+    <note>Original folder no. 730</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 041</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_041_0392</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:131521</identifier></mods>

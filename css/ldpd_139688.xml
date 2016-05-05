@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1296</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>John F. Sweeney &amp; Son</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Old Men Toy Shop Album -- Noah's Ark Means Fun For the Kiddies</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1915</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1915</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;From: Old Men's Toy Shop Album</mods:abstract>
+  <mods:abstract>Description:&#xA0;#1763 Stamped John F. Sweeney &amp; Son From: Old Men's Toy Shop Album Used as illustration for Old Men's Toy Shop Ad in Bagdad On the Subvay; A Periodical of Association [AICP] News, October 1917, No. 1, opposite page 12. Heading: NOAH'S ARK MEANS FUN FOR THE KTDDIES Made by the Old Folks for the Little Folks Address: 256 Mott Street (This is the address of the building the AICP "obtained" in 1919 from the Children's Aid Society for the Mulberry Community Center - see #4338.) Same illustration used for Old Men's Toy Shop Ad on inside of front cover of Bagdad On the Subway, November 1917, No. 2. Heading: "Yoo-hoo-Skinnay'. C'mon over! Wild animals an' everything'. Tigers - Zebras - Rhinocerosses! You oughta see'." NOAH'S AHK With Tame or Wild Animals (The Ark came in two sizes - one with 12 animals at $6.50; the other with 24 animals at $12.50. Customers were asked to specify whether they wanted Wild or Tame animals or, if they bought the 24 animal ark, they could have 12 of each.) Address: 105 East 22 St. Same illustration used for Ad on back cover of Bagdad On the Subway, December 1917, No. 3. Heading: MAKE CHRISTMAS MERRYl Visit Our Exhibit of Toys by the Old Men of the Toy Shop, now at 680 FIFTH AVENUE, near University Club Same illustration used for Ad on back cover of Bagdad On the Subway,December 1918, No. 6. Heading: THE MOST WONDERFUL TOYS IN ALL THE WORLD HOLIDAY SALE - 6ll FIFTH AVE., Cor. 49th ST.</mods:abstract>
+  <mods:note>Item no.&#xA0;1296</mods:note>
+  <mods:note>Photograph no.&#xA0;1763</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Bagdad on the Subway 1 (New York: 1917); New York Association for Improving the Condition of the Poor, Bagdad on the Subway 2 (New York: 1917); New York Association for Improving the Condition of the Poor, Bagdad on the Subway 3 (New York: 1917); New York Association for Improving the Condition of the Poor, Bagdad on the Subway 6 (New York: 1918).</mods:note>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Old Men's Toy Shop (New York, N.Y.)</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Wooden toys</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Toys</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Noah's ark</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;297</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;53</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1296</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139688</mods:identifier></mods:mods>

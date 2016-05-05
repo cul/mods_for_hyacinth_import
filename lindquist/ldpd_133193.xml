@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_052_0990</identifier>
+  <name>
+    <namePart>Fred Harvey (Firm)</namePart>
+  </name>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Navaho Boy </title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>between 1912 and 1953</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1912-00-00</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1953-00-00</dateCreated>
+  </originInfo>
+  <note type="date">Date based on the earliest and latest dates of the Lindquist collection.</note>
+  <physicalDescription>
+    <extent>5 1/2 x 3 1/2</extent>
+    <form authority="aat">postcards</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: H-1370 A Navaho Boy Copyright by Fred Harvey</abstract>
+  <abstract>Verso annotation: In apearance the Navaho is tall, rather slender and extremely agile. Both sexes, almost from birth, are at home on the pony, and the men are famous for their ability in running . At first acquaintance they are silent and seemingly unfriendly but on closer acquaintance they are found to possess a great store of humor and a cheerful and happy disposition. They are very fond of games. The Navahos are possessed of enormous flocks of sheep. They cultivate orchards, small patches of corn and melons and large areas of beans. The women are the finest blanket weavers and many of the men expert silver smiths.</abstract>
+  <note type="item">Item no. 0990</note>
+  <subject authority="lcsh">
+    <topic>Navajo Indians</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian boys</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian youth</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Boys</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: North Dakota</title>
+    </titleInfo>
+    <note>Original folder no. 744</note>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 052</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_052_0990</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:133193</identifier></mods>

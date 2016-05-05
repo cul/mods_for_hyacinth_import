@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1214</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>MacDonald, Helen E.  Parsons</namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Bogart Studio</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Ward Manor on the Hudson</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1953</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1953</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;"Ward Manor on the Hudson"  Please Return to Helen E. Parsons MacDonald 140 East 22 N.Y.City</mods:abstract>
+  <mods:abstract>Description:&#xA0;Mr. Cummings desk copy MEMORANDUM COMMUNITY SERVICE SOCIETY TO Miss Tousley FROM E. R. Cummings DATE Aug. 21, 1953 RE This week there came- to my office a Mrs, Helen E. Parsons MacDonald, an artist living on 22nd Street opposite the Children's Court. She had with her a large photograph of Ward Manor which she wished to give to the Society and told the following interesting story. Many years ago, I think she said in 1933, Mr. Mathews had requested her to paint a screen for Mrs, Ward showing a view of the two main houses at Ward Manor from the rear. Mr, Mathews had provided her with this large photograph for her use in checking some of the architectural details. She completed the painted screen which is in three sections and believes that Mrs. Ward still has it. She left with me also a small photograph of the painted screen. She also stated that she had made a similar screen of a scene on the Hudson River for Mrs. Roosevelt and had had in that connection many interesting talks with the latter whom she greatly admires. She also stated that she has had a close relationship with the Parsons School of Art, which was founded by her cousin and she spent considerable time in that school's branch in Paris. I gather that she is not a woman of means but is a great admirer of the C.S.S., particularly the activities formerly conducted by the A.I.C.P. Besides the painting of the Manor referred to above, she said she had made many other sketches of the grounds such as, the gate lodge, the gardens, the ravine and so forth. I thought you might like this information for your files and if you think of any appropriate use of the two photographs other than to keep them in the archives, please let us know.</mods:abstract>
+  <mods:note>Item no.&#xA0;1214</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:topic>Ward Manor (Red Hook, N.Y.)</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Painting</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings in art</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;624</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;42</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1214</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139447</mods:identifier></mods:mods>

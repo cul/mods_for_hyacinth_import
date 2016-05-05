@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0231</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Monroe Street</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1907</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1907</mods:dateCreated>
+  </mods:originInfo>Date from description sheet.<mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;Samil Herman, caps 245 Monroe Unknown Photographer c 1907 Looking east on Monroe St. from Scammel St.  The bridge at the end of the street is the Williamsburg, completed in 1903.  #6 return to book #2</mods:abstract>
+  <mods:abstract>Description:&#xA0;(Negative on file) #329 Unknown Photographer Looking east on Monroe Street from Scammel. The bridge at the end of the street is the Williamsburg, completed in 1903. At that time, S. Herman, Hats &amp; Caps (see sign at left), was doing business at 245 Monroe Street. The six story building at the right has the initials L &amp; G at the top and the date 1888. Monroe Street was paved early in the 1900's and this picture may have been taken about 1907. The clothes worn by the women at the left are very similar to those in #352, taken about then. At the time of this picture, Monroe Street started at Catherine Street and took a northeasterly direction to the Corlears Hook neighborhood, merging with Grand Street at the East River. Today (1970) little remains of Monroe and not a building in this picture is still standing. Except for two blocks, between Catherine and Pike, Monroe disappears into the housing projects covering that area, starting with Rutgers Houses at Pike (just north of the Manhattan Bridge) and ending up with the ILGWU Cooperative Village at Grand. Marine Station #6, a comparatively recent brick building, is now at the foot of Grand Street in the approximate location of the white building below the bridge. The men on duty there (in June 1970) thought the white building may have been an old fire house. They may be right. In "As You Pass By," by Kenneth Holcomb Dunshee (Hastings House, c1952), at p. 164, Mrs. Dunshee says, "Engine Company No. 33, 'Old Bombazula,' was located at the Grand Street Market in 1813." He also mentions Corlear's Hook "was once part of a farm first owned by Jacob Van Corlear," in 1639, and that "The Hook was always believed to be the hiding place of vast riches, the loot of both Blackbeard and Kidd but it was prospected for generations without success." Incidentally, Monroe Street was named for James Monroe, 5th President of the United States.</mods:abstract>
+  <mods:note>Item no.&#xA0;0231</mods:note>
+  <mods:note>Photograph no.&#xA0;329</mods:note>
+  <mods:note>Photographer unknown.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Williamsburg Bridge (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Monroe Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Carriages and carts</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Bridges</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;21</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0231</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136502</mods:identifier></mods:mods>

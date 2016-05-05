@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0055</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Beals, Jessie Tarbox</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Free School 2</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1912</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1912</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Description:&#xA0;(Negative on file) Box 297 Folder 6 #1654 Stamped Jessie Tarbox Beals Above the decorative doorway at the left: FREE SCHOOL 2. This school, on Henry: street between Pike and Rutgers, was "taken down." along with 3 buildings at each end, when Public School #2 was erected on the site a few years ago. A Plaque on the new building states: 1811 1911 Free School #2 founded on this site Nov. 13, 1811, by the Free School Society of New York. The land was donated by Col. Henry Rutgers. This tablet was erected by the Alumni Association to commemorate the One Hundreth anniversary of the founding of the school. The sign on the door where the children are lined up says, "Lunch served 12:00." The New York School Lunch Committee, "maintained" by the AICP, is mentioned for the first time in "Social and Family Welfare," the Association's 70th Annual Report(1912-1913), pp. 53-56. Under the heading "Report of the New York School Lunch Committee," p. 53, it states: "In co-operation with the Bureau of Welfare of School Children, the New York School Lunch Committee, during the current school year, has extended its service of penny-an-article lunches to nine additional schools, making in all, seventeen schools in which lunches are served to pupils. This extension is administered under the central kitchen plan... All the food is prepared at the central kitchen, and distributed to the associated schools. The last paragraph of the report (p. 56) states, "The work of the School lunch Committee is merely demonstrative, in order to pave the way for the making of the service activity supported and maintained under the control of the Board of Education." This was accomplished by 1919 and reported in "Last Year's Work and This Year's Challenge," the AICP 76th Annual Report (1918-1919), p. 22. "After completing an eight-year [started in 1910-1911 but not retorted?] demonstration of the need of school lunches and of devising effective means of meeting the need, the New York School Lunch Committee has withdrawn from the field to facilitate the transfer of the work to Board of Education where it logically belongs. When the Association took over this work, lunches were being served in 9 public schools, but in 1916, a year unusual economic depression, 49 lunches were maintained. On January 1, 1919, $50,000.00 of city funds were appropriated for school lunch work and the Committee concluded that its mission had been performed..."</mods:abstract>
+  <mods:note>Item no.&#xA0;0055</mods:note>
+  <mods:note>Photograph no.&#xA0;1654</mods:note>
+  <mods:subject>
+    <mods:name authority="naf">
+      <mods:namePart>Free-School Society of New-York</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Henry Street</mods:citySection>
+      <mods:citySection>Pike Street</mods:citySection>
+      <mods:citySection>Rutgers Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Umbrellas</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>School children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>School buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Girls</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Boys</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;12</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;104</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0055</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:135985</mods:identifier></mods:mods>

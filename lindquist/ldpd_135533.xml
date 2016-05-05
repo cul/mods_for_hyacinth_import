@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">burke_lindq_OS_1845</mods:identifier>
+  <mods:name authority="NAF" type="personal">
+    <mods:namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</mods:namePart>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Graduating Class and Faculty from the Ononoaga Reservation School Yearbook, 1937-38</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1937-38</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1937-00-00</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1938-00-00</mods:dateCreated>
+  </mods:originInfo>
+  <mods:note type="date">Yearbook in original folder</mods:note>
+  <mods:physicalDescription>
+    <mods:extent>5 1/2 x 6 1/4</mods:extent>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Recto annotation: Graduating Class and Faculty</mods:abstract>
+  <mods:note type="item">Item no. 1845</mods:note>
+  <mods:note type="public">Image originally from the Lindquist Papers, box 23, folder 18.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Onondaga Indian Reservation (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:geographic>New York (State)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Portraits, Group</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Indian children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Indians of North America--Education</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Teachers</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Indian boys</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Indian girls</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Boys</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Girls</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>G.E.E. Lindquist Native American Collection</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Folder title: Indians of New York: Tonawanda Senecas; Onandaga Reservation</mods:title>
+    </mods:titleInfo>
+    <mods:note>Original folder no. 513</mods:note>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>G.E.E. Lindquist Native American Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://lindquist.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NyNyCBL</mods:physicalLocation>
+    <mods:physicalLocation>Burke Library at Union Theological Seminary, Columbia University</mods:physicalLocation>
+    <mods:shelfLocator>Box no. OS</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_OS_1845</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:135533</mods:identifier></mods:mods>

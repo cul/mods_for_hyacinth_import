@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0225</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Maiden Lane</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1905</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1905</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;&lt;text&gt; 37 Liberty and 46 Maiden Lane Horace C. Hardy &lt;text&gt; 24 Maiden Lane</mods:abstract>
+  <mods:abstract>Description:&#xA0;#328 Unknown Photographer Looking east on Maiden Lane from between Broadway and Nassau Streets. Note the White Wing sweeping the southwest corner of Nassau Street. The next cross-street east of Nassau is William Street. Formerly Maiden Lane was the diamond and jewelry center of the city. The building at the left, northeast corner of Nassau, with the sign "Diamonds" at the roof top, housed Randel, Baremore &amp; Billings, established l840, pioneers in specializing in diamonds and in doing their own diamond cutting. See King's "Handbook of New York," c1893, p. 864, for description. Only two of the buildings in this picture are still standing (1970). One is the building with the metal shutters just east of Randel, etc., 35 Maiden Lane. (However, this apparently used to be 37-39, as cut into the stone trim above the entrance is: 37 Lorsch Building 39.) The other building still standing is the one with the ornamental white doorway, left background, on the northeast corner of William Street (84 William). According to the rental agents. Sylvan Lawrence at 90 William, 84 William was built in 1901. The doorway and the first three stories have been "modernized" with what appears to be black marble. More of the William Street side of this building can be seen at the present time than when the picture was taken. Immediately across the street west is the recently constructed (completed 1967) Home Insurance Company (43 stories), which is set back from the street and has a landscaped plaza. The Lawyers Title Insurance and Trust Company, on the right, was in the process of being built in 1893 (King's, p. 686). The Federal Reserve Bank (Chartered 1914; erected 1922) is now on the site of this 12 story building and the smaller buildings west to Nassau Street, covering the entire block, Maiden Lane to Liberty, Nassau to William. According to a book on file in the Municipal Reference Library, entitled "Street Pavements of All Kinds, Borough of Manhattan, City of New York," dated January 1, 1916, the "Date of Acceptance" for paving Maiden Lane from Broadway to Pearl Street, was June 3, 1896, and the "End of Maintenance," date was June 3, 1911, but exact date paving took place is not given. If the paving of Maiden Lane started at the Broadway end, this picture might have been taken around 1905, as all of the vehicles are horse drawn and the white trim on 84 William is fresh and clean. In "As You Pass By," by Kenneth Holcomb Dunshee (Hastings House, cl952), at page 87, Mr. Dunshee relates, " 'T Maagde Paatje, the Maiden's Path, was originally in a valley which Maiden Lane now traverses. The path followed a charming rivulet which ran through the little vale towards the East River. The stream, fed by a living spring, came tumbling down over the rocks, forming a series of pools . . . Maiden Lane undoubtedly got its name from the practice of the 'goude Dutch vrouws' and their daughters who came through the fields from the old town to wash their family linen there."</mods:abstract>
+  <mods:note>Item no.&#xA0;0225</mods:note>
+  <mods:note>Photograph no.&#xA0;328</mods:note>
+  <mods:note>Photographer unknown.</mods:note>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Maiden Lane</mods:citySection>
+      <mods:citySection>Broadway</mods:citySection>
+      <mods:citySection>Nassau Street</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Streets</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Storefronts</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Horses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Carriages and carts</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Buildings</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;296</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;15</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0225</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:136484</mods:identifier></mods:mods>

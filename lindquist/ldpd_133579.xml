@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_055_1134</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Grave and Headstone of Reverend Jesse Lockwood at Dwight Mission School Cemetery </title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>April 3, 1937</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1937-04-03</dateCreated>
+  </originInfo>
+  <note type="date">Inscribed on Verso</note>
+  <physicalDescription>
+    <extent>3 1/2 x 5 3/4</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Verso annotation: From G.E.E. Lindquist - 7 Winona St. - Lawrence, Kansas. Grave of Rev. Jesse Lockwood, early day missionary to Cherokees - At Dwight Mission School Cemetery - Died July 1834, shortly after mission moved to this place from Ark. Terr - Said to be first grave and head-stone in this part of state. Mr. Louis Walkinstick standing near grave. 4/3-37</abstract>
+  <note type="item">Item no. 1134</note>
+  <subject>
+    <name>
+      <namePart>Lockwood, Jesse, d. 1934</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Dwight Mission</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Walkinstick, Louis</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Oklahoma</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Vian (Okla.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Oklahoma</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Cherokee Indians--Missions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian men</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sepulchral monuments</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Cemeteries</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Men</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Oklahoma Indians</title>
+    </titleInfo>
+    <note>Original folder no. 748</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Subgroup 1</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 055</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_055_1134</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:133579</identifier></mods>

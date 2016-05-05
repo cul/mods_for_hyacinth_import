@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">burke_lindq_OS_1841</mods:identifier>
+  <mods:name>
+    <mods:namePart>Martin, Marvin Blackburn, 1907-1963</mods:namePart>
+  </mods:name>
+  <mods:name authority="NAF" type="personal">
+    <mods:namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</mods:namePart>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Front View of the Chieftain's Memorial Showing Dedication Plaque, Ute Park, Ignacio, Colorado</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1939-1953</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1939-00-00</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" point="end">1953-00-00</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:extent>6 x 3 1/2</mods:extent>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Verso annotation: Ute Park Chiefs' Monument Ignasio, Colo.</mods:abstract>
+  <mods:note type="item">Item no. 1841</mods:note>
+  <mods:note type="public">Erected 1939 in memory of Ouray, Buckskin Charley, Severo, Ignacio. Sculptor: Marvin B. Martin. Image originally found in the Lindquist Papers, box 22, folder 1.</mods:note>
+  <mods:subject>
+    <mods:name>
+      <mods:namePart>Severo, Chief</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name>
+      <mods:namePart>Ignacio, Chief</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name>
+      <mods:namePart>Buckskin Charlie, Ute chief</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Ignacio (Colo.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:geographic>Colorado</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Ute Indians</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Indians of North America--Kings and rulers</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Memorials</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>G.E.E. Lindquist Native American Collection</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Folder title: Colorado Indians - Consolidated UTE Agency, UTE Park, Colorado</mods:title>
+    </mods:titleInfo>
+    <mods:note>Original folder no. 477</mods:note>
+  </mods:relatedItem>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Group title: Ute Park, Ignacio, CO.</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>G.E.E. Lindquist Native American Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://lindquist.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NyNyCBL</mods:physicalLocation>
+    <mods:physicalLocation>Burke Library at Union Theological Seminary, Columbia University</mods:physicalLocation>
+    <mods:shelfLocator>Box no. OS</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_OS_1841</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:135521</mods:identifier></mods:mods>

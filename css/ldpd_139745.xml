@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.1315</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Drake, W. H. (William Henry)</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>98 Mott Street</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>circa 1884</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1884</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="gmgpc">illustrations</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;negative on file and 1 duplicate #13 BKI</mods:abstract>
+  <mods:abstract>Description:&#xA0;(Negative on file. Three 8 x 10 duplicates, and one 11 x 14.) #13 Drawing by W.H. Drake In &#x201C;Forty-First Annual Report of the New York Association for Improving the condition of the Poor, for the year 1884.&#x201D; Page 53 (From the Tenement House Inspectors Report, pp. 35-60.) --to&#x2014;Mott Street. Then houses; are somewhat of a wonder in their way. The space separating front from rear is about 120 feet in length, 50 feet in height, and 5 feet 10 inches in width. The back wall of the rear house is built within a few inches of the abutting buildings, showing that space can be economized so effectually as to leave circulation of air altogether out of question. Go into one of the rear houses&#x2026; ground floor, and an idea is obtained of how human beings can live. Back of the living room of 12 feet square are two diminutive bedrooms, each closely fitted by a small bed an furnished with windows corresponding in proportion, but through which light or air cannot enter because of the brick wall which stands immediately behind them. For such apartments, rents of from $6.00 to $9.00 are paid. The place is always fully tenanted&#x2026; Italians &#x2026; Form the bulk of its population&#x2026; There is not water in the houses the hydrants being at the cellar floor of the separating space. Here the washing of clothes and vegetables is done, and at times a visitor may behold an animated scene- the bright tinted garments of the women with their bare legs and vivacious chatter or the noisier quarrel as to &#x201C;whose turn next&#x201D; for water, all in the gloom of this immense chasm, combine to form a picture of a highly interesting and uncommon character. At the lowest point, left hand side, may be seen doorways; these are entrances to the water closets, so called, privies really&#x2026; In &#x201C;Frontiers in Human Welfare; The Story of A Hundred Years of Service to the Community of New York, 1848-1948.&#x201D; Community Service Society of New York, c1948, p. 12. No one would guess from the above that 98 Mott Street (usually call the Big Flat) was built under the auspices of the AICP. See AICP 13th Annual Report (1856), pp. 45-51. " 15th " " (1858), pp. 52-53- " 16th " (1859), P. 55 last paragraph. " 36th " " (1879), pp. 69-70. '</mods:abstract>
+  <mods:note>Item no.&#xA0;1315</mods:note>
+  <mods:note>Photograph no.&#xA0;13</mods:note>
+  <mods:note>Same scene depicted in image no. 0965 of this digital collection.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, Annual Report 41 (New York: 1884): 53.</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Lower East Side (New York, N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:country>United States</mods:country>
+      <mods:state>New York (State)</mods:state>
+      <mods:city>New York (N.Y.)</mods:city>
+      <mods:county>Manhattan</mods:county>
+      <mods:citySection>Mott Street,&#xA0;98</mods:citySection>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Tenement houses</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Laundry</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Ironing boards</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Clothing and dress</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Cats</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Basements</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;13</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;143</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_1315</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:139745</mods:identifier></mods:mods>

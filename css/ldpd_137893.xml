@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <mods:identifier type="local">rbml.css.0695</mods:identifier>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>New York Association for Improving the Condition of the Poor</mods:namePart>
+  </mods:name>
+  <mods:name authority="naf">
+    <namePart>Weissner Studio</namePart>
+  </mods:name>
+  <mods:name authority="naf" type="corporate">
+    <mods:namePart>Community Service Society of New York</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Man Fixing Woman's Glasses</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated>1938</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">1938</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:form authority="aat">photographs</mods:form>
+    <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    <mods:reformattingQuality>preservation</mods:reformattingQuality>
+  </mods:physicalDescription>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:abstract>Annotation on back:&#xA0;Negative at Gustav Weissman 370 Lexington 1938</mods:abstract>
+  <mods:abstract>Description:&#xA0;(There are several other prints taken at the same time but somewhat different poses. See Duplicate/Extra Print File.) #7013 Stamped Weissner Studio In AICP "93rd Year Book, 1935-1936." Spot in composite picture, center right, facing page 25. Section heading: AGED . . . How the AICP Provides Peace and Comfort for Old People. In a 33 page, 11 x 14 pamphlet entitled, "ON FOUR FRONTS - AICP Fights Poverty by (1) Restoring Families to Self-Support, (2) Building Health, (3) Giving the Kids a Break, (4) Caring for the Aged." At bottom of title page: 1843-1937. (The 1937 is the only indication of when this pamphlet was published. There is no other date on it.) Picture on page 27. Caption: TOO OLD - AT 40? Then there is the man or woman past 4O. Lose your job, and it isn't easy to obtain another. To obtain another. To these men and women, AICP extends a helping hand. New glasses, new dental plates, treatment for impaired hearing, an operation to correct a physical defect, new clothing, assistance in obtaining training in suitable new trade - whatever is needed to restore them to an active place in society - AICP provides, within the limits of its ability.</mods:abstract>
+  <mods:note>Item no.&#xA0;0695</mods:note>
+  <mods:note>Photograph no.&#xA0;7013</mods:note>
+  <mods:note>Same scene depicted in images nos. 0837, 0838, 0839, 0840 and 0841 of this digital collection.</mods:note>
+  <mods:relatedItem type="isReferencedBy">
+    <mods:note>New York Association for Improving the Condition of the Poor, "ON FOUR FRONTS - AICP Fights Poverty by (1) Restoring Families to Self-Support, (2) Building Health, (3) Giving the Kids a Break, (4) Caring for the Aged" (New York: circa 1937); New York Association for Improving the Condition of the Poor, "93rd Year Book" (New York: 1935-1936).</mods:note>
+  </mods:relatedItem>
+  <mods:subject authority="lcsh">
+    <mods:geographic>New York (N.Y.)</mods:geographic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Women</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Stores, Retail</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Opticians</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Older people--Employment</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Men</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Eyeglasses</mods:topic>
+  </mods:subject>
+  <mods:relatedItem displayLabel="Collection" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Records</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem displayLabel="Project" type="host">
+    <mods:titleInfo>
+      <mods:title>Community Service Society Photographs</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://css.cul.columbia.edu</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:physicalLocation authority="marcorg" type="code">NNC-RB</mods:physicalLocation>
+    <mods:physicalLocation>Rare Book and Manuscript Library, Columbia
+                    University</mods:physicalLocation>
+    <mods:shelfLocator>Box no.&#xA0;300</mods:shelfLocator>
+    <mods:shelfLocator>Folder no.&#xA0;72</mods:shelfLocator>
+    <mods:url access="object in context" usage="primary display">http://css.cul.columbia.edu/catalog/rbml_css_0695</mods:url>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+    <mods:recordOrigin>Human created, edited in general conformance to the DLF
+                    Implementation Guidelines for Shareable MODS Records, Version
+                    1.1.</mods:recordOrigin>
+  </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:137893</mods:identifier></mods:mods>

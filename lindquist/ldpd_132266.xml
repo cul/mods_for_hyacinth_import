@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+  <identifier type="local">burke_lindq_047_0659</identifier>
+  <name authority="NAF" type="personal">
+    <namePart>Lindquist, G. E. E. (Gustavus Elmer Emanuel), 1886-1967</namePart>
+  </name>
+  <titleInfo>
+    <title>Group of Female Dakota Students in front of Santee Normal Training School, Nebraska</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated>1912-1938</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1912-00-00</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end">1938-00-00</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>4 x 5</extent>
+    <form authority="aat">photographs</form>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>preservation</reformattingQuality>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <abstract>Recto annotation: Santee Normal Training School</abstract>
+  <abstract>Verso annotation: Cold, but happy - Dakota Home Girls, Santee Normal Training School. Nebraska</abstract>
+  <note type="item">Item no. 0659</note>
+  <subject>
+    <name>
+      <namePart>Santee Normal Training School (Santee, Neb.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Santee (Neb.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Nebraska</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dakota Indians--Education</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian girls</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dakota Indians</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indian students</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Portraits, Group</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Boarding schools</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Girls</topic>
+  </subject>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Folder title: Nebraska - Santee Indian School, Winnebago Indian School</title>
+    </titleInfo>
+    <note>Original folder no. 738</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Group title: Sub-group 1</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>G.E.E. Lindquist Native American Photographs</title>
+    </titleInfo>
+    <location>
+      <url>http://lindquist.cul.columbia.edu</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="marcorg" type="code">NyNyCBL</physicalLocation>
+    <physicalLocation>The Burke Library (Columbia University Libraries) at Union Theological Seminary in the City of New York</physicalLocation>
+    <shelfLocator>Box no. 047</shelfLocator>
+    <url access="object in context" usage="primary display">http://lindquist.cul.columbia.edu/catalog/burke_lindq_047_0659</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Human created, edited in general conformance to the DLF Implementation Guidelines for Shareable MODS Records, Version 1.1.</recordOrigin>
+  </recordInfo>
+<identifier type="fedora_pid">ldpd:132266</identifier></mods>
