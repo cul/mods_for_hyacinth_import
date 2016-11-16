@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:titleInfo>
+      <mods:title>Minutes, 1983-02-17. Knowledge, Technology, and Social Systems, seminar 467, 1982-1983</mods:title>
+   </mods:titleInfo>
+   <mods:name authority="naf" type="corporate">
+      <mods:namePart>Columbia University. University Seminars</mods:namePart>
+   </mods:name>
+   <mods:name usage="primary">
+      <mods:namePart>Seminar 467</mods:namePart>
+   </mods:name>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm>New York</mods:placeTerm>
+      </mods:place>
+      <mods:dateCreated>1982-1983</mods:dateCreated>
+      <mods:dateCreated encoding="iso8601" keyDate="yes" point="start">1982</mods:dateCreated>
+      <mods:dateCreated encoding="iso8601" point="end">1983</mods:dateCreated>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm>eng</mods:languageTerm>
+   </mods:language>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:physicalDescription>
+      <mods:form authority="aat">administrative records</mods:form>
+      <mods:form authority="local">minutes</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+      <mods:internetMediaType>pdf</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:subject authority="local">
+      <mods:topic>Knowledge, Technology, and Social Systems</mods:topic>
+   </mods:subject>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:title>University Seminars Digital Archive</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:relatedItem type="host" displayLabel="Collection">
+      <mods:titleInfo>
+         <mods:title>University Seminars records</mods:title>
+      </mods:titleInfo>
+   </mods:relatedItem>
+   <mods:note type="original_filename">original filename:&#xA0;467.AY8283.0217.m.pdf</mods:note>
+   <mods:location>
+      <mods:physicalLocation>Rare Book &amp; Manuscript Library, Columbia University</mods:physicalLocation>
+      <mods:physicalLocation authority="marcorg">NNC-RB</mods:physicalLocation>
+   </mods:location>
+   <mods:recordInfo>
+      <mods:recordIdentifier>ldpd_usem_467.AY8283.0217.m.pdf</mods:recordIdentifier>
+      <mods:languageOfCataloging>
+         <mods:languageTerm>eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordOrigin>Created and edited in general conformance to MODS Guidelines. (Version 3)</mods:recordOrigin>
+      <mods:recordContentSource>NNC</mods:recordContentSource>
+   </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:461365</mods:identifier></mods:mods>
