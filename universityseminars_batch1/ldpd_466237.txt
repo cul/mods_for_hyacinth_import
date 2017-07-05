@@ -1,0 +1,24 @@
+titleInfo-title : Minutes, 1999-02-17. Pollution and Water Resources:  Scientific and Institutional Aspects, seminar 495A, 1998-1999
+@authority=naf-@type=corporate-name-namePart : Columbia University. University Seminars
+@usage=primary-name-namePart : Seminar 495A
+originInfo-place-placeTerm : New York
+originInfo-dateCreated : 1998-1999
+originInfo-@encoding=iso8601-@keyDate=yes-@point=start-dateCreated : 1998
+originInfo-@encoding=iso8601-@point=end-dateCreated : 1999
+language-languageTerm : eng
+typeOfResource : text
+physicalDescription-@authority=aat-form : administrative records
+physicalDescription-@authority=local-form : minutes
+physicalDescription-digitalOrigin : reformatted digital
+physicalDescription-internetMediaType : pdf
+@authority=local-subject-topic : Pollution and Water Resources:  Scientific and Institutional Aspects
+@type=host-@displayLabel=Project-relatedItem-titleInfo-title : University Seminars Digital Archive
+@type=host-@displayLabel=Collection-relatedItem-titleInfo-title : University Seminars records
+@type=original_filename-note : original filename: 495A.AY9899.0217.m.pdf
+location-physicalLocation : Rare Book & Manuscript Library, Columbia University
+location-@authority=marcorg-physicalLocation : NNC-RB
+recordInfo-recordIdentifier : ldpd_usem_495A.AY9899.0217.m.pdf
+recordInfo-languageOfCataloging-languageTerm : eng
+recordInfo-recordOrigin : Created and edited in general conformance to MODS Guidelines. (Version 3)
+recordInfo-recordContentSource : NNC
+@type=fedora_pid-identifier : ldpd:466237

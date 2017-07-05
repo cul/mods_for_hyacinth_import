@@ -1,0 +1,24 @@
+titleInfo-title : Correspondence, 2000-11-14. Comparative Study of Cultures, seminar 675, 2000-2001
+@authority=naf-@type=corporate-name-namePart : Columbia University. University Seminars
+@usage=primary-name-namePart : Seminar 675
+originInfo-place-placeTerm : New York
+originInfo-dateCreated : 2000-2001
+originInfo-@encoding=iso8601-@keyDate=yes-@point=start-dateCreated : 2000
+originInfo-@encoding=iso8601-@point=end-dateCreated : 2001
+language-languageTerm : eng
+typeOfResource : text
+physicalDescription-@authority=aat-form : administrative records
+physicalDescription-@authority=local-form : correspondence
+physicalDescription-digitalOrigin : reformatted digital
+physicalDescription-internetMediaType : pdf
+@authority=local-subject-topic : Comparative Study of Cultures
+@type=host-@displayLabel=Project-relatedItem-titleInfo-title : University Seminars Digital Archive
+@type=host-@displayLabel=Collection-relatedItem-titleInfo-title : University Seminars records
+@type=original_filename-note : original filename: 675.AY0001.1114.c.pdf
+location-physicalLocation : Rare Book & Manuscript Library, Columbia University
+location-@authority=marcorg-physicalLocation : NNC-RB
+recordInfo-recordIdentifier : ldpd_usem_675.AY0001.1114.c.pdf
+recordInfo-languageOfCataloging-languageTerm : eng
+recordInfo-recordOrigin : Created and edited in general conformance to MODS Guidelines. (Version 3)
+recordInfo-recordContentSource : NNC
+@type=fedora_pid-identifier : ldpd:480997

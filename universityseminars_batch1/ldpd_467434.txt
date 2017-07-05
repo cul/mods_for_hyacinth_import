@@ -1,0 +1,24 @@
+titleInfo-title : Announcements, 1974-10-22. Economic History, seminar 503, 1974-1975
+@authority=naf-@type=corporate-name-namePart : Columbia University. University Seminars
+@usage=primary-name-namePart : Seminar 503
+originInfo-place-placeTerm : New York
+originInfo-dateCreated : 1974-1975
+originInfo-@encoding=iso8601-@keyDate=yes-@point=start-dateCreated : 1974
+originInfo-@encoding=iso8601-@point=end-dateCreated : 1975
+language-languageTerm : eng
+typeOfResource : text
+physicalDescription-@authority=aat-form : administrative records
+physicalDescription-@authority=local-form : announcements
+physicalDescription-digitalOrigin : reformatted digital
+physicalDescription-internetMediaType : pdf
+@authority=local-subject-topic : Economic History
+@type=host-@displayLabel=Project-relatedItem-titleInfo-title : University Seminars Digital Archive
+@type=host-@displayLabel=Collection-relatedItem-titleInfo-title : University Seminars records
+@type=original_filename-note : original filename: 503.AY7475.1022.a.pdf
+location-physicalLocation : Rare Book & Manuscript Library, Columbia University
+location-@authority=marcorg-physicalLocation : NNC-RB
+recordInfo-recordIdentifier : ldpd_usem_503.AY7475.1022.a.pdf
+recordInfo-languageOfCataloging-languageTerm : eng
+recordInfo-recordOrigin : Created and edited in general conformance to MODS Guidelines. (Version 3)
+recordInfo-recordContentSource : NNC
+@type=fedora_pid-identifier : ldpd:467434

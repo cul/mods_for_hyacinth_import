@@ -1,0 +1,24 @@
+titleInfo-title : Announcements, 1977-05-05. The Uses of the Ocean, seminar 527, 1976-1977
+@authority=naf-@type=corporate-name-namePart : Columbia University. University Seminars
+@usage=primary-name-namePart : Seminar 527
+originInfo-place-placeTerm : New York
+originInfo-dateCreated : 1976-1977
+originInfo-@encoding=iso8601-@keyDate=yes-@point=start-dateCreated : 1976
+originInfo-@encoding=iso8601-@point=end-dateCreated : 1977
+language-languageTerm : eng
+typeOfResource : text
+physicalDescription-@authority=aat-form : administrative records
+physicalDescription-@authority=local-form : announcements
+physicalDescription-digitalOrigin : reformatted digital
+physicalDescription-internetMediaType : pdf
+@authority=local-subject-topic : Uses of the Ocean
+@type=host-@displayLabel=Project-relatedItem-titleInfo-title : University Seminars Digital Archive
+@type=host-@displayLabel=Collection-relatedItem-titleInfo-title : University Seminars records
+@type=original_filename-note : original filename: 527-528.AY7677.0505.a.pdf
+location-physicalLocation : Rare Book & Manuscript Library, Columbia University
+location-@authority=marcorg-physicalLocation : NNC-RB
+recordInfo-recordIdentifier : ldpd_usem_527-528.AY7677.0505.a.pdf
+recordInfo-languageOfCataloging-languageTerm : eng
+recordInfo-recordOrigin : Created and edited in general conformance to MODS Guidelines. (Version 3)
+recordInfo-recordContentSource : NNC
+@type=fedora_pid-identifier : ldpd:471709

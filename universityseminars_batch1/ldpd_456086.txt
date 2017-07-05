@@ -1,0 +1,24 @@
+titleInfo-title : Minutes, 1962-04-19. Classical Civilization, seminar 441, 1961-1962
+@authority=naf-@type=corporate-name-namePart : Columbia University. University Seminars
+@usage=primary-name-namePart : Seminar 441
+originInfo-place-placeTerm : New York
+originInfo-dateCreated : 1961-1962
+originInfo-@encoding=iso8601-@keyDate=yes-@point=start-dateCreated : 1961
+originInfo-@encoding=iso8601-@point=end-dateCreated : 1962
+language-languageTerm : eng
+typeOfResource : text
+physicalDescription-@authority=aat-form : administrative records
+physicalDescription-@authority=local-form : minutes
+physicalDescription-digitalOrigin : reformatted digital
+physicalDescription-internetMediaType : pdf
+@authority=local-subject-topic : Classical Civilization
+@type=host-@displayLabel=Project-relatedItem-titleInfo-title : University Seminars Digital Archive
+@type=host-@displayLabel=Collection-relatedItem-titleInfo-title : University Seminars records
+@type=original_filename-note : original filename: 441.AY6162.0419.m.pdf
+location-physicalLocation : Rare Book & Manuscript Library, Columbia University
+location-@authority=marcorg-physicalLocation : NNC-RB
+recordInfo-recordIdentifier : ldpd_usem_441.AY6162.0419.m.pdf
+recordInfo-languageOfCataloging-languageTerm : eng
+recordInfo-recordOrigin : Created and edited in general conformance to MODS Guidelines. (Version 3)
+recordInfo-recordContentSource : NNC
+@type=fedora_pid-identifier : ldpd:456086

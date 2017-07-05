@@ -1,0 +1,24 @@
+titleInfo-title : Minutes, 1978-11-16. Soviet Nationality Problems, seminar 493, 1978-1979
+@authority=naf-@type=corporate-name-namePart : Columbia University. University Seminars
+@usage=primary-name-namePart : Seminar 493
+originInfo-place-placeTerm : New York
+originInfo-dateCreated : 1978-1979
+originInfo-@encoding=iso8601-@keyDate=yes-@point=start-dateCreated : 1978
+originInfo-@encoding=iso8601-@point=end-dateCreated : 1979
+language-languageTerm : eng
+typeOfResource : text
+physicalDescription-@authority=aat-form : administrative records
+physicalDescription-@authority=local-form : minutes
+physicalDescription-digitalOrigin : reformatted digital
+physicalDescription-internetMediaType : pdf
+@authority=local-subject-topic : Soviet Nationality Problems
+@type=host-@displayLabel=Project-relatedItem-titleInfo-title : University Seminars Digital Archive
+@type=host-@displayLabel=Collection-relatedItem-titleInfo-title : University Seminars records
+@type=original_filename-note : original filename: 493-494.AY7879.1116.m.pdf
+location-physicalLocation : Rare Book & Manuscript Library, Columbia University
+location-@authority=marcorg-physicalLocation : NNC-RB
+recordInfo-recordIdentifier : ldpd_usem_493-494.AY7879.1116.m.pdf
+recordInfo-languageOfCataloging-languageTerm : eng
+recordInfo-recordOrigin : Created and edited in general conformance to MODS Guidelines. (Version 3)
+recordInfo-recordContentSource : NNC
+@type=fedora_pid-identifier : ldpd:465643
