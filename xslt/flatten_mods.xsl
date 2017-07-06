@@ -11,6 +11,7 @@
         <xsl:text>"</xsl:text>
         <xsl:for-each select="ancestor-or-self::*[not(self::mods:mods)]">
             <xsl:value-of select="local-name()"/>
+            <xsl:value-of select="count(preceding-sibling::*[name() = name(current())]) + 1"/>
             <xsl:for-each select="@*">
                 <xsl:text>@</xsl:text>
                 <xsl:value-of select="name()"/>
@@ -22,7 +23,7 @@
             </xsl:if>
         </xsl:for-each>
         <xsl:text>" : "</xsl:text>
-        <xsl:value-of select="child::text()"/>
+        <xsl:value-of select="normalize-space(child::text())"/>
         <xsl:text>"</xsl:text>
         <xsl:text>,&#10;</xsl:text>
     </xsl:template>
