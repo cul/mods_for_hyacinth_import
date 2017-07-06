@@ -4,9 +4,9 @@
     xmlns:saxon="http://saxon.sf.net/" exclude-result-prefixes="xs" version="2.0">
     <xsl:output encoding="UTF-8" method="text"/>
     <xsl:strip-space elements="*"/>
-    <xsl:template match="/"> {"record": {<xsl:apply-templates/>}} </xsl:template>
+    <xsl:template match="/"> {"record": {<xsl:apply-templates select="descendant::*[normalize-space(child::text())]"/>}} </xsl:template>
 
-    <xsl:template match="*[normalize-space(child::text())]">
+    <xsl:template match="*">
         <xsl:text>"</xsl:text>
         <xsl:for-each select="ancestor-or-self::*[not(self::mods:mods)]">
             <xsl:value-of select="local-name()"/>
@@ -22,9 +22,12 @@
         <xsl:text>" : "</xsl:text>
         <xsl:value-of select="normalize-space(child::text())"/>
         <xsl:text>"</xsl:text>
-        <xsl:text>,&#10;</xsl:text>
+        <xsl:if test="position() != last()">
+        <xsl:text>,</xsl:text>
+        </xsl:if>
+        <xsl:text>&#10;</xsl:text>
     </xsl:template>
-    
+
     <xsl:template match="@*">
         <xsl:text>@</xsl:text>
         <xsl:value-of select="name()"/>
