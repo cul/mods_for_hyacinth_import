@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <identifier type="local">starr.cpg.0156</identifier>
+  <identifier type="CLIO">4343872</identifier>
+  <titleInfo>
+    <title>Menshen</title>
+  </titleInfo>
+  <titleInfo type="translated">
+    <title>&#x9580;&#x795E;</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <physicalDescription>
+    <form authority="marcform">electronic</form>
+    <form authority="gmgpc">prints</form>
+    <extent>wood-engraving, color ; 58 x 36 cm.</extent>
+    <reformattingQuality>access</reformattingQuality>
+    <internetMediaType>image/tiff</internetMediaType>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <dateIssued encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1930</dateIssued>
+    <dateIssued encoding="w3cdtf" point="end" qualifier="approximate">1939</dateIssued>
+  </originInfo>
+  <location>
+    <physicalLocation authority="marcorg">NNC-EA</physicalLocation>
+    <physicalLocation>C.V. Starr East Asian Library, Columbia University</physicalLocation>
+    <shelfLocator>NYCP.GAC.0001.0156</shelfLocator>
+    <url access="object in context" usage="primary display">http://www.columbia.edu/cu/lweb/digital/collections/eastasian/paper_gods/collection/NYCP.GAC.0001.0156.html</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Anne S. Goodrich Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Chinese paper gods</title>
+    </titleInfo>
+    <location>
+      <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio6257012</url>
+    </location>
+  </relatedItem>
+  <note>Date according to time period Anne S. Goodrich collected prints in Beijing.</note>
+  <genre authority="gmgpc">wood engravings</genre>
+  <subject authority="lcsh">
+    <topic>Gods, Chinese, in art</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">No known restrictions.</accessCondition>
+  <recordInfo>
+    <recordCreationDate encoding="w3cdtf">2010-12-09</recordCreationDate>
+    <recordContentSource authority="marcorg">NNC</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>From Columbia University Libraries' Chinese Paper Gods online exhibition,
+                edited to conform to the DLF Implementation Guidelines for Shareable MODS Records,
+                Version 1.1.</recordOrigin>
+  </recordInfo>
+</mods>
